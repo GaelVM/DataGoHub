@@ -1,9 +1,13 @@
 {
-  "name": "auto-update",
+  "name": "assets",
   "version": "1.0.0",
+  "description": "jUNIOR vM",
   "main": "index.js",
-  "author": "junior vm",
-  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21",
     "node-html-parser": "^6.1.12",
