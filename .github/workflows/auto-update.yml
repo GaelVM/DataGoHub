@@ -28,13 +28,19 @@ jobs:
       - name: Installation
         run: |
           yarn install
+          yarn install --dev
+
+      - name: Debug
+        run: |
+          ls -l
+          ls -l src
 
       - name: Generate JSON files by Puppeteer
         uses: mujo-code/puppeteer-headful@v2
         env:
           CI: 'true'
         with:
-          args: yarn start
+          args: yarn run start
 
       - name: Commit files to gh-pages 🚀
         uses: JamesIves/github-pages-deploy-action@v4
