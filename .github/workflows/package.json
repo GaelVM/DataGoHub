@@ -1,0 +1,15 @@
+{
+  "name": "auto-update",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "junior vm",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "node-html-parser": "^6.1.12",
+    "pmgo-pokedex": "^0.2.2",
+    "puppeteer": "^21.6.1",
+    "sprintf-js": "^1.1.3",
+    "url-join": "^5.0.0"
+  }
+}
