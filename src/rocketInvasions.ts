@@ -1,5 +1,4 @@
 // Node modules.
-
 import _ from 'lodash';
 import puppeteer from 'puppeteer';
 import { parse } from 'node-html-parser';
