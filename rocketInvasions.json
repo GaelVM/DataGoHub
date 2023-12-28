@@ -218,7 +218,7 @@
     "quote": "Estas aguas son traicioneras.",
     "orignialQuote": "“These waters are treacherous” – Water-type Grunt",
     "category": "Water",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -373,7 +373,7 @@
     "quote": "¡No te metas con nosotros!",
     "orignialQuote": "“Don’t tangle with us!” – Grass-type Grunt",
     "category": "Grass",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -483,7 +483,7 @@
     "quote": "¡Prepárate para sorprenderte!",
     "orignialQuote": "“Get ready to be shocked!” – Electric-type Grunt",
     "category": "Electric",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -756,7 +756,7 @@
     "quote": "¡Serás derrotado hasta el suelo!",
     "orignialQuote": "“You’ll be defeated into the ground!” – Ground-type Grunt",
     "category": "Ground",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -840,7 +840,7 @@
     "quote": "¡Lucha contra mis Pokémon de tipo Volador!",
     "orignialQuote": "“Battle against my Flying-type Pokémon!” – Flying-type Grunt",
     "category": "Flying",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1828,7 +1828,7 @@
     "quote": "¡Vamos, mi Pokémon súper bicho!",
     "orignialQuote": "“Go, my super bug Pokémon!” – Bug-type Grunt",
     "category": "",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1953,7 +1953,7 @@
     "quote": "“Don’t bother – I’ve already won. Get ready to be defeated! Winning is for winners!” – Difficult Grunts",
     "orignialQuote": "“Don’t bother – I’ve already won. Get ready to be defeated! Winning is for winners!” – Difficult Grunts",
     "category": "",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
