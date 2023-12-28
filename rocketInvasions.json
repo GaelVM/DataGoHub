@@ -2,7 +2,7 @@
   {
     "quote": "Normal no significa débil",
     "orignialQuote": "“Normal doesn’t mean weak.” – Normal-type Grunt",
-    "category": "一般",
+    "category": "Normal",
     "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
@@ -108,8 +108,8 @@
   {
     "quote": "¿Sabes lo caliente que puede llegar a ser el aliento de fuego de Pokémon?",
     "orignialQuote": "“Do you know how hot Pokémon fire breath can get?” – Fire-type Grunt",
-    "category": "火",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "category": "Fire",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -217,7 +217,7 @@
   {
     "quote": "Estas aguas son traicioneras.",
     "orignialQuote": "“These waters are treacherous” – Water-type Grunt",
-    "category": "水",
+    "category": "Water",
     "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
@@ -372,7 +372,7 @@
   {
     "quote": "¡No te metas con nosotros!",
     "orignialQuote": "“Don’t tangle with us!” – Grass-type Grunt",
-    "category": "草",
+    "category": "Grass",
     "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
@@ -482,7 +482,7 @@
   {
     "quote": "¡Prepárate para sorprenderte!",
     "orignialQuote": "“Get ready to be shocked!” – Electric-type Grunt",
-    "category": "電",
+    "category": "Electric",
     "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
@@ -578,8 +578,8 @@
   {
     "quote": "¡Este físico musculoso no es sólo para lucirse!",
     "orignialQuote": "“This buff physique isn’t just for show!” – Fighting-type Grunt",
-    "category": "格鬥",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "category": "Fighting",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -672,8 +672,8 @@
   {
     "quote": "¡Enrollado y listo para atacar!",
     "orignialQuote": "“Coiled and ready to strike!” – Poison-type Grunt",
-    "category": "毒",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "category": "Poison",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -755,7 +755,7 @@
   {
     "quote": "¡Serás derrotado hasta el suelo!",
     "orignialQuote": "“You’ll be defeated into the ground!” – Ground-type Grunt",
-    "category": "地面",
+    "category": "Ground",
     "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
@@ -839,8 +839,8 @@
   {
     "quote": "¡Lucha contra mis Pokémon de tipo Volador!",
     "orignialQuote": "“Battle against my Flying-type Pokémon!” – Flying-type Grunt",
-    "category": "飛行",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "category": "Flying",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -965,8 +965,8 @@
   {
     "quote": "¿Tienes miedo de los psíquicos que usan poderes invisibles?？",
     "orignialQuote": "“Are you scared of psychics that use unseen power?” – Psychic-type Grunt",
-    "category": "超能力",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "category": "Psychic",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1075,7 +1075,7 @@
   {
     "quote": "¡Vamos a rockanrolear!",
     "orignialQuote": "“Let’s rock and roll!” – Rock-type Grunt",
-    "category": "岩石",
+    "category": "Rock",
     "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
@@ -1187,8 +1187,8 @@
   {
     "quote": "Ke…ke…ke…ke…ke…ke！",
     "orignialQuote": "“Ke…ke…ke…ke…ke…ke!” – Ghost-type Grunt",
-    "category": "幽靈",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "category": "Ghost",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1308,7 +1308,7 @@
   {
     "quote": "Te quedarás congelado en seco.",
     "orignialQuote": "“You’re gonna be frozen in your tracks.” – Ice-type Grunt",
-    "category": "冰",
+    "category": "Ice",
     "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
@@ -1433,7 +1433,7 @@
   {
     "quote": "¡RUGIDO! … ¿Qué te parece?",
     "orignialQuote": "“ROAR! … How’d that sound?” – Dragon-type Grunt",
-    "category": "龍",
+    "category": "Dragon",
     "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
@@ -1531,8 +1531,8 @@
   {
     "quote": "Donde hay luz, también hay sombra.",
     "orignialQuote": "“Wherever there is light, there is also shadow.” – Dark-type Grunt",
-    "category": "惡",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "category": "Dark",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1605,7 +1605,7 @@
   {
     "quote": "¡No eres rival para mi voluntad de hierro!",
     "orignialQuote": "“You’re no match for my iron will!” – Steel-type Grunt",
-    "category": "鋼",
+    "category": "Steel",
     "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
@@ -1718,8 +1718,8 @@
   {
     "quote": "¡Mira mi lindo Pokémon!",
     "orignialQuote": "“Check out my cute Pokémon!” – Fairy-type Grunt",
-    "category": "妖精",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "category": "Fairy",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2161,7 +2161,7 @@
     "quote": "About Grunts",
     "orignialQuote": "About Grunts",
     "category": "",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": []
   },
@@ -2169,7 +2169,7 @@
     "quote": "Recommended team for defeating Team GO Rocket Grunts",
     "orignialQuote": "Recommended team for defeating Team GO Rocket Grunts",
     "category": "",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2216,7 +2216,7 @@
   {
     "quote": "",
     "orignialQuote": "",
-    "category": "幹部 希爾拉",
+    "category": "Sierra",
     "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/leader-sierra.png",
     "isSpecial": true,
     "lineupPokemons": [
@@ -2316,7 +2316,7 @@
   {
     "quote": "",
     "orignialQuote": "",
-    "category": "幹部 克里夫",
+    "category": "Cliff",
     "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/leader-cliff.png",
     "isSpecial": true,
     "lineupPokemons": [
@@ -2414,7 +2414,7 @@
   {
     "quote": "",
     "orignialQuote": "",
-    "category": "幹部 亞洛",
+    "category": "Arlo",
     "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/leader-arlo.png",
     "isSpecial": true,
     "lineupPokemons": [
@@ -2511,7 +2511,7 @@
   {
     "quote": "",
     "orignialQuote": "",
-    "category": "阪木老大",
+    "category": "Giovanni",
     "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/boss-giovanni.png",
     "isSpecial": true,
     "lineupPokemons": [
