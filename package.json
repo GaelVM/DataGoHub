@@ -1,5 +1,5 @@
 {
-  "name": "data-pokemongohub",
+  "name": "datagohub",
   "version": "0.1.0",
   "description": "Get Pokemon GO information from pokemon GO Hub website.",
   "main": "dist/index.js",
