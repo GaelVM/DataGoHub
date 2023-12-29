@@ -234,7 +234,7 @@
     "quote": "Estas aguas son traicioneras.",
     "orignialQuote": "“These waters are treacherous” – Water-type Grunt",
     "category": "Water",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -902,7 +902,7 @@
     "quote": "¡Lucha contra mis Pokémon de tipo Volador!",
     "orignialQuote": "“Battle against my Flying-type Pokémon!” – Flying-type Grunt",
     "category": "Flying",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1037,7 +1037,7 @@
     "quote": "¿Tienes miedo de los psíquicos que usan poderes invisibles?？",
     "orignialQuote": "“Are you scared of psychics that use unseen power?” – Psychic-type Grunt",
     "category": "Psychic",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1275,7 +1275,7 @@
     "quote": "Ke…ke…ke…ke…ke…ke！",
     "orignialQuote": "“Ke…ke…ke…ke…ke…ke!” – Ghost-type Grunt",
     "category": "Ghost",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2319,7 +2319,7 @@
     "quote": "About Grunts",
     "orignialQuote": "About Grunts",
     "category": "",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": []
   },
@@ -2327,7 +2327,7 @@
     "quote": "Recommended team for defeating Team GO Rocket Grunts",
     "orignialQuote": "Recommended team for defeating Team GO Rocket Grunts",
     "category": "",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
