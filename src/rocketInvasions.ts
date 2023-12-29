@@ -109,19 +109,17 @@ const getGruntRocketInvasions = async () => {
       lineupPokemonItems.forEach((lineupPokemonItem, j) => {
         const originalName = lineupPokemonItem.querySelector('.content .name')?.rawText.trim() ?? '';
         const pokemon = pokedex.getPokemonByFuzzyName(originalName);
-        const imageUrl = lineupPokemonItem.querySelector('img')?.getAttribute('data-lazy-src') ?? '';
-        const shinyAvailable = lineupPokemonItem.classNames.includes('shiny');
+        
 
         all.push({
           slotNo: i + 1,
           no: pokemon.no,
-          // name: pokemon.form ? `${pokemon.name} (${pokemon.form})` : pokemon.name,
-          name: pokemon.name || originalName,
+          name: pokemon.name || originalName,  // Usar el nombre en inglés si está disponible, de lo contrario, usar el nombre original
           originalName: originalName,
           types: pokemon.types?.map((type: string) => type) || [],  // Usar los tipos en inglés si están disponibles
-          catchable: false, // FIXME: not implemented yet.
-          shinyAvailable,
-          imageUrl,
+          catchable: false,
+          shinyAvailable: lineupPokemonItem.classNames.includes('shiny'),
+          imageUrl: lineupPokemonItem.querySelector('img')?.getAttribute('data-lazy-src') ?? '',
         });
       });
 
