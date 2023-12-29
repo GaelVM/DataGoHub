@@ -97,8 +97,6 @@ const getGruntRocketInvasions = async () => {
   for (const rocketInvasionItem of rocketInvasionItems) {
     const orignialQuote = rocketInvasionItem.querySelector('h2')?.rawText.trim() ?? '';
     const categoryRaw = rocketInvasionItem.querySelector('p span.type-badge')?.rawText.trim() ?? '';
-    // const catchableInfo = rocketInvasionItem.querySelector('p strong')?.rawText.trim() ?? '';
-    // console.log(catchableInfo);
 
     const lineupSlotItems = rocketInvasionItem.querySelectorAll('.hub-scrollable table tr td');
     const lineupPokemons = lineupSlotItems.reduce((all, lineupSlotItem, i) => {
@@ -107,14 +105,13 @@ const getGruntRocketInvasions = async () => {
 
       lineupPokemonItems.forEach((lineupPokemonItem, j) => {
         const originalName = lineupPokemonItem.querySelector('.content .name')?.rawText.trim() ?? '';
-        const pokemon = pokedex.getPokemonByFuzzyName(originalName);
+        const pokemon = pokedex.getPokemonByFuzzyName(originalName, 'en-US'); // Cambio aquí para obtener el nombre en inglés.
         const imageUrl = lineupPokemonItem.querySelector('img')?.getAttribute('data-lazy-src') ?? '';
         const shinyAvailable = lineupPokemonItem.classNames.includes('shiny');
 
         all.push({
           slotNo: i + 1,
           no: pokemon.no,
-          // name: pokemon.form ? `${pokemon.name} (${pokemon.form})` : pokemon.name,
           name: pokemon.name,
           originalName: originalName,
           types: pokemon.types,
@@ -191,7 +188,7 @@ const getLeaderRocketInvasions = async (category: 'Leader' | 'Boss', leaderName:
       lineupPokemonItems.forEach((lineupPokemonItem, j) => {
         const slotNo = i + 1;
         const originalName = lineupPokemonItem.querySelector('.content .name')?.rawText.trim() ?? '';
-        const pokemon = pokedex.getPokemonByFuzzyName(originalName);
+        const pokemon = pokedex.getPokemonByFuzzyName(originalName, 'en-US'); // Cambio aquí para obtener el nombre en inglés.
         const imageUrl = lineupPokemonItem.querySelector('img')?.getAttribute('data-lazy-src') ?? '';
         const catchable = (category === 'Leader' && slotNo === 1) || (category === 'Boss' && slotNo === 3);
         const shinyAvailable = category === 'Leader' && lineupPokemonItem.classNames.includes('shiny');
@@ -199,7 +196,6 @@ const getLeaderRocketInvasions = async (category: 'Leader' | 'Boss', leaderName:
         all.push({
           slotNo,
           no: pokemon.no,
-          // name: pokemon.form ? `${pokemon.name} (${pokemon.form})` : pokemon.name,
           name: pokemon.name,
           originalName: originalName,
           types: pokemon.types,
