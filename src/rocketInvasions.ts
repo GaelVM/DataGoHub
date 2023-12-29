@@ -1,5 +1,4 @@
 // Node modules.
-
 import _ from 'lodash';
 import puppeteer from 'puppeteer';
 import { parse } from 'node-html-parser';
@@ -55,7 +54,7 @@ const categoryMapping = (categoryTag: string) => {
 };
 
 const characterImageUrlMapping = (characterName?: string) => {
-  const baseUrl = 'https://github.com/GaelVM/DataGoHub/tree/main/assets/';
+  const baseUrl = 'https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/';
 
   switch (characterName) {
     case 'Cliff':
@@ -98,6 +97,8 @@ const getGruntRocketInvasions = async () => {
   for (const rocketInvasionItem of rocketInvasionItems) {
     const orignialQuote = rocketInvasionItem.querySelector('h2')?.rawText.trim() ?? '';
     const categoryRaw = rocketInvasionItem.querySelector('p span.type-badge')?.rawText.trim() ?? '';
+    // const catchableInfo = rocketInvasionItem.querySelector('p strong')?.rawText.trim() ?? '';
+    // console.log(catchableInfo);
 
     const lineupSlotItems = rocketInvasionItem.querySelectorAll('.hub-scrollable table tr td');
     const lineupPokemons = lineupSlotItems.reduce((all, lineupSlotItem, i) => {
@@ -107,16 +108,19 @@ const getGruntRocketInvasions = async () => {
       lineupPokemonItems.forEach((lineupPokemonItem, j) => {
         const originalName = lineupPokemonItem.querySelector('.content .name')?.rawText.trim() ?? '';
         const pokemon = pokedex.getPokemonByFuzzyName(originalName);
+        const imageUrl = lineupPokemonItem.querySelector('img')?.getAttribute('data-lazy-src') ?? '';
+        const shinyAvailable = lineupPokemonItem.classNames.includes('shiny');
 
         all.push({
           slotNo: i + 1,
           no: pokemon.no,
-          name: pokemon.name || originalName,  // Usar el nombre en inglés si está disponible, de lo contrario, usar el nombre original
+          // name: pokemon.form ? `${pokemon.name} (${pokemon.form})` : pokemon.name,
+          name: pokemon.name,
           originalName: originalName,
-          types: pokemon.types?.map((type: string) => type) || [],  // Usar los tipos en inglés si están disponibles
-          catchable: false,
-          shinyAvailable: lineupPokemonItem.classNames.includes('shiny'),
-          imageUrl: lineupPokemonItem.querySelector('img')?.getAttribute('data-lazy-src') ?? '',
+          types: pokemon.types,
+          catchable: false, // FIXME: not implemented yet.
+          shinyAvailable,
+          imageUrl,
         });
       });
 
@@ -239,4 +243,3 @@ const getRocketInvasions = async () => {
 export {
   getRocketInvasions,
 };
-
