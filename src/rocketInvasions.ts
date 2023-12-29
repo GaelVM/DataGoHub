@@ -184,33 +184,36 @@ const getLeaderRocketInvasions = async (category: 'Leader' | 'Boss', leaderName:
       [lineupSlotItems[2]],
     ];
 
-  const lineupPokemons = lineups.reduce((all, lineupSlotItems, i) => {
-    lineupSlotItems.forEach((lineupSlotItem) => {
-      const lineupPokemonItems = lineupSlotItem.querySelectorAll('a');
-
-      lineupPokemonItems.forEach((lineupPokemonItem, j) => {
-        const slotNo = i + 1;
-        const originalName = lineupPokemonItem.querySelector('.content .name')?.rawText.trim() ?? '';
-        const pokemon = pokedex.getPokemonByFuzzyName(originalName, 'en-US'); // Cambio aquí para obtener el nombre en inglés.
-        const imageUrl = lineupPokemonItem.querySelector('img')?.getAttribute('data-lazy-src') ?? '';
-        const catchable = (category === 'Leader' && slotNo === 1) || (category === 'Boss' && slotNo === 3);
-        const shinyAvailable = category === 'Leader' && lineupPokemonItem.classNames.includes('shiny');
-
-        all.push({
-          slotNo,
-          no: pokemon.no,
-          name: pokemon.name,
-          originalName: originalName,
-          types: pokemon.types,
-          catchable,
-          shinyAvailable,
-          imageUrl,
+    const lineupPokemons = lineups.reduce((all, lineupSlotItems, i) => {
+      lineupSlotItems.forEach((lineupSlotItem) => {
+        const lineupPokemonItems = lineupSlotItem.querySelectorAll('a');
+    
+        lineupPokemonItems.forEach((lineupPokemonItem, j) => {
+          const slotNo = i + 1;
+          const originalName = lineupPokemonItem.querySelector('.content .name')?.rawText.trim() ?? '';
+          const pokemon = pokedex.getPokemonByFuzzyName(originalName, 'en-US');
+          const imageUrl = lineupPokemonItem.querySelector('img')?.getAttribute('data-lazy-src') ?? '';
+          const catchable = (category === 'Leader' && slotNo === 1) || (category === 'Boss' && slotNo === 3);
+          const shinyAvailable = category === 'Leader' && lineupPokemonItem.classNames.includes('shiny');
+          const imageIco = `https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/${pokemon.no}.png`;
+    
+          // Asegúrate de que estás utilizando la interfaz correcta aquí
+          all.push({
+            slotNo,
+            no: pokemon.no,
+            name: pokemon.name,
+            originalName: originalName,
+            types: pokemon.types,
+            catchable,
+            shinyAvailable,
+            imageUrl,
+            imageIco,
+          });
         });
       });
-    });
-
-    return all;
-  }, [] as LineupPokemon[]);
+    
+      return all;
+    }, [] as LineupPokemon[]);
 
   rocketInvasions.push({
     quote: '',
