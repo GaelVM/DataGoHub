@@ -3,16 +3,16 @@
     "quote": "Normal no significa débil",
     "orignialQuote": "“Normal doesn’t mean weak.” – Normal-type Grunt",
     "category": "Normal",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
         "no": 52,
-        "name": "喵喵",
+        "name": "Meowth",
         "originalName": "Meowth (Shadow)",
         "types": [
-          "一般"
+          "Normal"
         ],
         "catchable": false,
         "shinyAvailable": true,
@@ -21,10 +21,10 @@
       {
         "slotNo": 1,
         "no": 431,
-        "name": "魅力喵",
+        "name": "Glameow",
         "originalName": "Glameow (Shadow)",
         "types": [
-          "一般"
+          "Normal"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -33,10 +33,10 @@
       {
         "slotNo": 2,
         "no": 19,
-        "name": "小拉達",
+        "name": "Rattata",
         "originalName": "Rattata (Shadow)",
         "types": [
-          "一般"
+          "Normal"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -45,10 +45,10 @@
       {
         "slotNo": 2,
         "no": 20,
-        "name": "拉達",
+        "name": "Raticate",
         "originalName": "Raticate (Shadow)",
         "types": [
-          "一般"
+          "Normal"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -57,10 +57,10 @@
       {
         "slotNo": 2,
         "no": 432,
-        "name": "東施喵",
+        "name": "Purugly",
         "originalName": "Purugly (Shadow)",
         "types": [
-          "一般"
+          "Normal"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -69,10 +69,10 @@
       {
         "slotNo": 3,
         "no": 217,
-        "name": "圈圈熊",
+        "name": "Ursaring",
         "originalName": "Ursaring (Shadow)",
         "types": [
-          "一般"
+          "Normal"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -81,11 +81,11 @@
       {
         "slotNo": 3,
         "no": 400,
-        "name": "大尾狸",
+        "name": "Bibarel",
         "originalName": "Bibarel (Shadow)",
         "types": [
-          "一般",
-          "水"
+          "Normal",
+          "Water"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -94,10 +94,10 @@
       {
         "slotNo": 3,
         "no": 20,
-        "name": "拉達",
+        "name": "Raticate",
         "originalName": "Raticate (Shadow)",
         "types": [
-          "一般"
+          "Normal"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -115,11 +115,11 @@
       {
         "slotNo": 1,
         "no": 607,
-        "name": "燭光靈",
+        "name": "Litwick",
         "originalName": "Litwick (Shadow)",
         "types": [
-          "幽靈",
-          "火"
+          "Ghost",
+          "Fire"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -128,10 +128,10 @@
       {
         "slotNo": 1,
         "no": 37,
-        "name": "六尾",
+        "name": "Vulpix",
         "originalName": "Vulpix (Shadow)",
         "types": [
-          "火"
+          "Fire"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -140,11 +140,11 @@
       {
         "slotNo": 1,
         "no": 322,
-        "name": "呆火駝",
+        "name": "Numel",
         "originalName": "Numel (Shadow)",
         "types": [
-          "火",
-          "地面"
+          "Fire",
+          "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -153,10 +153,10 @@
       {
         "slotNo": 2,
         "no": 156,
-        "name": "火岩鼠",
+        "name": "Quilava",
         "originalName": "Quilava (Shadow)",
         "types": [
-          "火"
+          "Fire"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -165,11 +165,11 @@
       {
         "slotNo": 2,
         "no": 802,
-        "name": "瑪夏多",
+        "name": "Marshadow",
         "originalName": "Magmar (Shadow)",
         "types": [
-          "格鬥",
-          "幽靈"
+          "Fighting",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -178,10 +178,10 @@
       {
         "slotNo": 3,
         "no": 157,
-        "name": "火爆獸",
+        "name": "Typhlosion",
         "originalName": "Typhlosion (Shadow)",
         "types": [
-          "火"
+          "Fire"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -190,10 +190,10 @@
       {
         "slotNo": 3,
         "no": 38,
-        "name": "九尾",
+        "name": "Ninetales",
         "originalName": "Ninetales (Shadow)",
         "types": [
-          "火"
+          "Fire"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -202,11 +202,11 @@
       {
         "slotNo": 3,
         "no": 323,
-        "name": "噴火駝",
+        "name": "Camerupt",
         "originalName": "Camerupt (Shadow)",
         "types": [
-          "火",
-          "地面"
+          "Fire",
+          "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -224,10 +224,10 @@
       {
         "slotNo": 1,
         "no": 90,
-        "name": "大舌貝",
+        "name": "Shellder",
         "originalName": "Shellder (Shadow)",
         "types": [
-          "水"
+          "Water"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -236,10 +236,10 @@
       {
         "slotNo": 1,
         "no": 54,
-        "name": "可達鴨",
+        "name": "Psyduck",
         "originalName": "Psyduck (Shadow)",
         "types": [
-          "水"
+          "Water"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -248,11 +248,11 @@
       {
         "slotNo": 1,
         "no": 339,
-        "name": "泥泥鰍",
+        "name": "Barboach",
         "originalName": "Barboach (Shadow)",
         "types": [
-          "水",
-          "地面"
+          "Water",
+          "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -261,10 +261,10 @@
       {
         "slotNo": 2,
         "no": 159,
-        "name": "藍鱷",
+        "name": "Croconaw",
         "originalName": "Croconaw (Shadow)",
         "types": [
-          "水"
+          "Water"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -273,10 +273,10 @@
       {
         "slotNo": 2,
         "no": 55,
-        "name": "哥達鴨",
+        "name": "Golduck",
         "originalName": "Golduck (Shadow)",
         "types": [
-          "水"
+          "Water"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -285,10 +285,10 @@
       {
         "slotNo": 3,
         "no": 160,
-        "name": "大力鱷",
+        "name": "Feraligatr",
         "originalName": "Feraligatr (Shadow)",
         "types": [
-          "水"
+          "Water"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -297,10 +297,10 @@
       {
         "slotNo": 3,
         "no": 321,
-        "name": "吼鯨王",
+        "name": "Wailord",
         "originalName": "Wailord (Shadow)",
         "types": [
-          "水"
+          "Water"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -309,10 +309,10 @@
       {
         "slotNo": 3,
         "no": 55,
-        "name": "哥達鴨",
+        "name": "Golduck",
         "originalName": "Golduck (Shadow)",
         "types": [
-          "水"
+          "Water"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -321,10 +321,10 @@
       {
         "slotNo": 4,
         "no": 129,
-        "name": "鯉魚王",
+        "name": "Magikarp",
         "originalName": "Magikarp (Shadow)",
         "types": [
-          "水"
+          "Water"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -333,10 +333,10 @@
       {
         "slotNo": 5,
         "no": 129,
-        "name": "鯉魚王",
+        "name": "Magikarp",
         "originalName": "Magikarp (Shadow)",
         "types": [
-          "水"
+          "Water"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -345,10 +345,10 @@
       {
         "slotNo": 6,
         "no": 129,
-        "name": "鯉魚王",
+        "name": "Magikarp",
         "originalName": "Magikarp (Shadow)",
         "types": [
-          "水"
+          "Water"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -357,11 +357,11 @@
       {
         "slotNo": 6,
         "no": 130,
-        "name": "暴鯉龍",
+        "name": "Gyarados",
         "originalName": "Gyarados (Shadow)",
         "types": [
-          "水",
-          "飛行"
+          "Water",
+          "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -373,16 +373,16 @@
     "quote": "¡No te metas con nosotros!",
     "orignialQuote": "“Don’t tangle with us!” – Grass-type Grunt",
     "category": "Grass",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
         "no": 331,
-        "name": "刺球仙人掌",
+        "name": "Cacnea",
         "originalName": "Cacnea (Shadow)",
         "types": [
-          "草"
+          "Grass"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -391,11 +391,11 @@
       {
         "slotNo": 1,
         "no": 69,
-        "name": "喇叭芽",
+        "name": "Bellsprout",
         "originalName": "Bellsprout (Shadow)",
         "types": [
-          "草",
-          "毒"
+          "Grass",
+          "Poison"
         ],
         "catchable": false,
         "shinyAvailable": true,
@@ -404,11 +404,11 @@
       {
         "slotNo": 1,
         "no": 43,
-        "name": "走路草",
+        "name": "Oddish",
         "originalName": "Oddish (Shadow)",
         "types": [
-          "草",
-          "毒"
+          "Grass",
+          "Poison"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -417,10 +417,10 @@
       {
         "slotNo": 2,
         "no": 153,
-        "name": "月桂葉",
+        "name": "Bayleef",
         "originalName": "Bayleef (Shadow)",
         "types": [
-          "草"
+          "Grass"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -429,11 +429,11 @@
       {
         "slotNo": 2,
         "no": 44,
-        "name": "臭臭花",
+        "name": "Gloom",
         "originalName": "Gloom (Shadow)",
         "types": [
-          "草",
-          "毒"
+          "Grass",
+          "Poison"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -442,11 +442,11 @@
       {
         "slotNo": 3,
         "no": 332,
-        "name": "夢歌仙人掌",
+        "name": "Cacturne",
         "originalName": "Cacturne (Shadow)",
         "types": [
-          "草",
-          "惡"
+          "Grass",
+          "Dark"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -455,10 +455,10 @@
       {
         "slotNo": 3,
         "no": 154,
-        "name": "大竺葵",
+        "name": "Meganium",
         "originalName": "Meganium (Shadow)",
         "types": [
-          "草"
+          "Grass"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -467,11 +467,11 @@
       {
         "slotNo": 3,
         "no": 591,
-        "name": "敗露球菇",
+        "name": "Amoonguss",
         "originalName": "Amoonguss (Shadow)",
         "types": [
-          "草",
-          "毒"
+          "Grass",
+          "Poison"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -483,17 +483,17 @@
     "quote": "¡Prepárate para sorprenderte!",
     "orignialQuote": "“Get ready to be shocked!” – Electric-type Grunt",
     "category": "Electric",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
         "no": 802,
-        "name": "瑪夏多",
+        "name": "Marshadow",
         "originalName": "Mareep (Shadow)",
         "types": [
-          "格鬥",
-          "幽靈"
+          "Fighting",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -502,11 +502,11 @@
       {
         "slotNo": 1,
         "no": 81,
-        "name": "小磁怪",
+        "name": "Magnemite",
         "originalName": "Magnemite (Shadow)",
         "types": [
-          "電",
-          "鋼"
+          "Electric",
+          "Steel"
         ],
         "catchable": false,
         "shinyAvailable": true,
@@ -515,11 +515,11 @@
       {
         "slotNo": 2,
         "no": 74,
-        "name": "小拳石",
+        "name": "Geodude",
         "originalName": "Geodude (Alola Shadow)",
         "types": [
-          "岩石",
-          "電"
+          "Rock",
+          "Electric"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -528,10 +528,10 @@
       {
         "slotNo": 2,
         "no": 100,
-        "name": "霹靂電球",
+        "name": "Voltorb",
         "originalName": "Voltorb (Shadow)",
         "types": [
-          "電"
+          "Electric"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -540,10 +540,10 @@
       {
         "slotNo": 3,
         "no": 523,
-        "name": "雷電斑馬",
+        "name": "Zebstrika",
         "originalName": "Zebstrika (Shadow)",
         "types": [
-          "電"
+          "Electric"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -552,10 +552,10 @@
       {
         "slotNo": 3,
         "no": 181,
-        "name": "電龍",
+        "name": "Ampharos",
         "originalName": "Ampharos (Shadow)",
         "types": [
-          "電"
+          "Electric"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -564,10 +564,10 @@
       {
         "slotNo": 3,
         "no": 405,
-        "name": "倫琴貓",
+        "name": "Luxray",
         "originalName": "Luxray (Shadow)",
         "types": [
-          "電"
+          "Electric"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -579,17 +579,17 @@
     "quote": "¡Este físico musculoso no es sólo para lucirse!",
     "orignialQuote": "“This buff physique isn’t just for show!” – Fighting-type Grunt",
     "category": "Fighting",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
         "no": 215,
-        "name": "狃拉",
+        "name": "Sneasel",
         "originalName": "Sneasel (Hisuian Shadow)",
         "types": [
-          "格鬥",
-          "毒"
+          "Fighting",
+          "Poison"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -598,10 +598,10 @@
       {
         "slotNo": 1,
         "no": 106,
-        "name": "飛腿郎",
+        "name": "Hitmonlee",
         "originalName": "Hitmonlee (Shadow)",
         "types": [
-          "格鬥"
+          "Fighting"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -610,10 +610,10 @@
       {
         "slotNo": 1,
         "no": 107,
-        "name": "快拳郎",
+        "name": "Hitmonchan",
         "originalName": "Hitmonchan (Shadow)",
         "types": [
-          "格鬥"
+          "Fighting"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -622,10 +622,10 @@
       {
         "slotNo": 2,
         "no": 237,
-        "name": "戰舞郎",
+        "name": "Hitmontop",
         "originalName": "Hitmontop (Shadow)",
         "types": [
-          "格鬥"
+          "Fighting"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -634,10 +634,10 @@
       {
         "slotNo": 2,
         "no": 106,
-        "name": "飛腿郎",
+        "name": "Hitmonlee",
         "originalName": "Hitmonlee (Shadow)",
         "types": [
-          "格鬥"
+          "Fighting"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -646,10 +646,10 @@
       {
         "slotNo": 2,
         "no": 107,
-        "name": "快拳郎",
+        "name": "Hitmonchan",
         "originalName": "Hitmonchan (Shadow)",
         "types": [
-          "格鬥"
+          "Fighting"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -658,10 +658,10 @@
       {
         "slotNo": 3,
         "no": 237,
-        "name": "戰舞郎",
+        "name": "Hitmontop",
         "originalName": "Hitmontop (Shadow)",
         "types": [
-          "格鬥"
+          "Fighting"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -679,10 +679,10 @@
       {
         "slotNo": 1,
         "no": 88,
-        "name": "臭泥",
+        "name": "Grimer",
         "originalName": "Grimer (Shadow)",
         "types": [
-          "毒"
+          "Poison"
         ],
         "catchable": false,
         "shinyAvailable": true,
@@ -691,11 +691,11 @@
       {
         "slotNo": 1,
         "no": 590,
-        "name": "哎呀球菇",
+        "name": "Foongus",
         "originalName": "Foongus (Shadow)",
         "types": [
-          "草",
-          "毒"
+          "Grass",
+          "Poison"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -704,10 +704,10 @@
       {
         "slotNo": 2,
         "no": 30,
-        "name": "尼多娜",
+        "name": "Nidorina",
         "originalName": "Nidorina (Shadow)",
         "types": [
-          "毒"
+          "Poison"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -716,10 +716,10 @@
       {
         "slotNo": 2,
         "no": 33,
-        "name": "尼多力諾",
+        "name": "Nidorino",
         "originalName": "Nidorino (Shadow)",
         "types": [
-          "毒"
+          "Poison"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -728,11 +728,11 @@
       {
         "slotNo": 3,
         "no": 802,
-        "name": "瑪夏多",
+        "name": "Marshadow",
         "originalName": "Muk (Shadow)",
         "types": [
-          "超能力",
-          "幽靈"
+          "Psychic",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -741,10 +741,10 @@
       {
         "slotNo": 3,
         "no": 110,
-        "name": "雙彈瓦斯",
+        "name": "Weezing",
         "originalName": "Weezing (Shadow)",
         "types": [
-          "毒"
+          "Poison"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -762,11 +762,11 @@
       {
         "slotNo": 1,
         "no": 111,
-        "name": "獨角犀牛",
+        "name": "Rhyhorn",
         "originalName": "Rhyhorn (Shadow)",
         "types": [
-          "地面",
-          "岩石"
+          "Ground",
+          "Rock"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -775,10 +775,10 @@
       {
         "slotNo": 1,
         "no": 529,
-        "name": "螺釘地鼠",
+        "name": "Drilbur",
         "originalName": "Drilbur (Shadow)",
         "types": [
-          "地面"
+          "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -787,10 +787,10 @@
       {
         "slotNo": 2,
         "no": 449,
-        "name": "沙河馬",
+        "name": "Hippopotas",
         "originalName": "Hippopotas (Shadow)",
         "types": [
-          "地面"
+          "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -799,11 +799,11 @@
       {
         "slotNo": 2,
         "no": 111,
-        "name": "獨角犀牛",
+        "name": "Rhyhorn",
         "originalName": "Rhyhorn (Shadow)",
         "types": [
-          "地面",
-          "岩石"
+          "Ground",
+          "Rock"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -812,10 +812,10 @@
       {
         "slotNo": 3,
         "no": 450,
-        "name": "河馬獸",
+        "name": "Hippowdon",
         "originalName": "Hippowdon (Shadow)",
         "types": [
-          "地面"
+          "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -824,11 +824,11 @@
       {
         "slotNo": 3,
         "no": 195,
-        "name": "沼王",
+        "name": "Quagsire",
         "originalName": "Quagsire (Shadow)",
         "types": [
-          "水",
-          "地面"
+          "Water",
+          "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -846,11 +846,11 @@
       {
         "slotNo": 1,
         "no": 177,
-        "name": "天然雀",
+        "name": "Natu",
         "originalName": "Natu (Shadow)",
         "types": [
-          "超能力",
-          "幽靈"
+          "Psychic",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -859,11 +859,11 @@
       {
         "slotNo": 1,
         "no": 580,
-        "name": "鴨寶寶",
+        "name": "Ducklett",
         "originalName": "Ducklett (Shadow)",
         "types": [
-          "水",
-          "飛行"
+          "Water",
+          "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -872,11 +872,11 @@
       {
         "slotNo": 1,
         "no": 41,
-        "name": "超音蝠",
+        "name": "Zubat",
         "originalName": "Zubat (Shadow)",
         "types": [
-          "毒",
-          "飛行"
+          "Poison",
+          "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -885,11 +885,11 @@
       {
         "slotNo": 2,
         "no": 178,
-        "name": "天然鳥",
+        "name": "Xatu",
         "originalName": "Xatu (Shadow)",
         "types": [
-          "超能力",
-          "幽靈"
+          "Psychic",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -898,11 +898,11 @@
       {
         "slotNo": 2,
         "no": 397,
-        "name": "姆克鳥",
+        "name": "Staravia",
         "originalName": "Staravia (Shadow)",
         "types": [
-          "一般",
-          "飛行"
+          "Normal",
+          "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -911,11 +911,11 @@
       {
         "slotNo": 2,
         "no": 42,
-        "name": "大嘴蝠",
+        "name": "Golbat",
         "originalName": "Golbat (Shadow)",
         "types": [
-          "毒",
-          "飛行"
+          "Poison",
+          "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -924,11 +924,11 @@
       {
         "slotNo": 3,
         "no": 130,
-        "name": "暴鯉龍",
+        "name": "Gyarados",
         "originalName": "Gyarados (Shadow)",
         "types": [
-          "水",
-          "飛行"
+          "Water",
+          "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -937,11 +937,11 @@
       {
         "slotNo": 3,
         "no": 149,
-        "name": "快龍",
+        "name": "Dragonite",
         "originalName": "Dragonite (Shadow)",
         "types": [
-          "龍",
-          "飛行"
+          "Dragon",
+          "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -950,11 +950,11 @@
       {
         "slotNo": 3,
         "no": 169,
-        "name": "叉字蝠",
+        "name": "Crobat",
         "originalName": "Crobat (Shadow)",
         "types": [
-          "毒",
-          "飛行"
+          "Poison",
+          "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -972,11 +972,11 @@
       {
         "slotNo": 1,
         "no": 177,
-        "name": "天然雀",
+        "name": "Natu",
         "originalName": "Natu (Shadow)",
         "types": [
-          "超能力",
-          "幽靈"
+          "Psychic",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -985,10 +985,10 @@
       {
         "slotNo": 1,
         "no": 325,
-        "name": "跳跳豬",
+        "name": "Spoink",
         "originalName": "Spoink (Shadow)",
         "types": [
-          "超能力"
+          "Psychic"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -997,11 +997,11 @@
       {
         "slotNo": 1,
         "no": 63,
-        "name": "凱西",
+        "name": "Abra",
         "originalName": "Abra (Shadow)",
         "types": [
-          "超能力",
-          "幽靈"
+          "Psychic",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1010,11 +1010,11 @@
       {
         "slotNo": 2,
         "no": 280,
-        "name": "拉魯拉絲",
+        "name": "Ralts",
         "originalName": "Ralts (Shadow)",
         "types": [
-          "超能力",
-          "幽靈"
+          "Psychic",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1023,11 +1023,11 @@
       {
         "slotNo": 2,
         "no": 203,
-        "name": "麒麟奇",
+        "name": "Girafarig",
         "originalName": "Girafarig (Shadow)",
         "types": [
-          "一般",
-          "超能力"
+          "Normal",
+          "Psychic"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1036,10 +1036,10 @@
       {
         "slotNo": 3,
         "no": 97,
-        "name": "引夢貘人",
+        "name": "Hypno",
         "originalName": "Hypno (Shadow)",
         "types": [
-          "超能力"
+          "Psychic"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1048,11 +1048,11 @@
       {
         "slotNo": 3,
         "no": 375,
-        "name": "金屬怪",
+        "name": "Metang",
         "originalName": "Metang (Shadow)",
         "types": [
-          "鋼",
-          "超能力"
+          "Steel",
+          "Psychic"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1061,10 +1061,10 @@
       {
         "slotNo": 3,
         "no": 65,
-        "name": "胡地",
+        "name": "Alakazam",
         "originalName": "Alakazam (Shadow)",
         "types": [
-          "超能力"
+          "Psychic"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1076,16 +1076,16 @@
     "quote": "¡Vamos a rockanrolear!",
     "orignialQuote": "“Let’s rock and roll!” – Rock-type Grunt",
     "category": "Rock",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
         "no": 408,
-        "name": "頭蓋龍",
+        "name": "Cranidos",
         "originalName": "Cranidos (Shadow)",
         "types": [
-          "岩石"
+          "Rock"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1094,11 +1094,11 @@
       {
         "slotNo": 1,
         "no": 410,
-        "name": "盾甲龍",
+        "name": "Shieldon",
         "originalName": "Shieldon (Shadow)",
         "types": [
-          "岩石",
-          "鋼"
+          "Rock",
+          "Steel"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1107,11 +1107,11 @@
       {
         "slotNo": 1,
         "no": 74,
-        "name": "小拳石",
+        "name": "Geodude",
         "originalName": "Geodude (Alola Shadow)",
         "types": [
-          "岩石",
-          "電"
+          "Rock",
+          "Electric"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1120,11 +1120,11 @@
       {
         "slotNo": 2,
         "no": 345,
-        "name": "觸手百合",
+        "name": "Lileep",
         "originalName": "Lileep (Shadow)",
         "types": [
-          "岩石",
-          "草"
+          "Rock",
+          "Grass"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1133,11 +1133,11 @@
       {
         "slotNo": 2,
         "no": 347,
-        "name": "太古羽蟲",
+        "name": "Anorith",
         "originalName": "Anorith (Shadow)",
         "types": [
-          "岩石",
-          "蟲"
+          "Rock",
+          "Bug"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1146,11 +1146,11 @@
       {
         "slotNo": 2,
         "no": 75,
-        "name": "隆隆石",
+        "name": "Graveler",
         "originalName": "Graveler (Shadow)",
         "types": [
-          "岩石",
-          "地面"
+          "Rock",
+          "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1159,11 +1159,11 @@
       {
         "slotNo": 3,
         "no": 76,
-        "name": "隆隆岩",
+        "name": "Golem",
         "originalName": "Golem (Shadow)",
         "types": [
-          "岩石",
-          "地面"
+          "Rock",
+          "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1172,11 +1172,11 @@
       {
         "slotNo": 3,
         "no": 76,
-        "name": "隆隆岩",
+        "name": "Golem",
         "originalName": "Golem (Alola Shadow)",
         "types": [
-          "岩石",
-          "電"
+          "Rock",
+          "Electric"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1194,11 +1194,11 @@
       {
         "slotNo": 1,
         "no": 92,
-        "name": "鬼斯",
+        "name": "Gastly",
         "originalName": "Gastly (Shadow)",
         "types": [
-          "幽靈",
-          "毒"
+          "Ghost",
+          "Poison"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1207,10 +1207,10 @@
       {
         "slotNo": 1,
         "no": 355,
-        "name": "夜巡靈",
+        "name": "Duskull",
         "originalName": "Duskull (Shadow)",
         "types": [
-          "幽靈"
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1219,10 +1219,10 @@
       {
         "slotNo": 1,
         "no": 353,
-        "name": "怨影娃娃",
+        "name": "Shuppet",
         "originalName": "Shuppet (Shadow)",
         "types": [
-          "幽靈"
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1231,10 +1231,10 @@
       {
         "slotNo": 2,
         "no": 356,
-        "name": "彷徨夜靈",
+        "name": "Dusclops",
         "originalName": "Dusclops (Shadow)",
         "types": [
-          "幽靈"
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1243,10 +1243,10 @@
       {
         "slotNo": 2,
         "no": 354,
-        "name": "詛咒娃娃",
+        "name": "Banette",
         "originalName": "Banette (Shadow)",
         "types": [
-          "幽靈"
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1255,11 +1255,11 @@
       {
         "slotNo": 2,
         "no": 622,
-        "name": "泥偶小人",
+        "name": "Golett",
         "originalName": "Golett (Shadow)",
         "types": [
-          "地面",
-          "幽靈"
+          "Ground",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1268,10 +1268,10 @@
       {
         "slotNo": 3,
         "no": 477,
-        "name": "黑夜魔靈",
+        "name": "Dusknoir",
         "originalName": "Dusknoir (Shadow)",
         "types": [
-          "幽靈"
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1280,11 +1280,11 @@
       {
         "slotNo": 3,
         "no": 94,
-        "name": "耿鬼",
+        "name": "Gengar",
         "originalName": "Gengar (Shadow)",
         "types": [
-          "幽靈",
-          "毒"
+          "Ghost",
+          "Poison"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1293,11 +1293,11 @@
       {
         "slotNo": 3,
         "no": 623,
-        "name": "泥偶巨人",
+        "name": "Golurk",
         "originalName": "Golurk (Shadow)",
         "types": [
-          "地面",
-          "幽靈"
+          "Ground",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1315,11 +1315,11 @@
       {
         "slotNo": 1,
         "no": 27,
-        "name": "穿山鼠",
+        "name": "Sandshrew",
         "originalName": "Sandshrew (Alola Shadow)",
         "types": [
-          "冰",
-          "鋼"
+          "Ice",
+          "Steel"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1328,10 +1328,10 @@
       {
         "slotNo": 1,
         "no": 37,
-        "name": "六尾",
+        "name": "Vulpix",
         "originalName": "Vulpix (Alola Shadow)",
         "types": [
-          "冰"
+          "Ice"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1340,11 +1340,11 @@
       {
         "slotNo": 1,
         "no": 220,
-        "name": "小山豬",
+        "name": "Swinub",
         "originalName": "Swinub (Shadow)",
         "types": [
-          "冰",
-          "地面"
+          "Ice",
+          "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1353,11 +1353,11 @@
       {
         "slotNo": 2,
         "no": 28,
-        "name": "穿山王",
+        "name": "Sandslash",
         "originalName": "Sandslash (Alola Shadow)",
         "types": [
-          "冰",
-          "鋼"
+          "Ice",
+          "Steel"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1366,11 +1366,11 @@
       {
         "slotNo": 2,
         "no": 38,
-        "name": "九尾",
+        "name": "Ninetales",
         "originalName": "Ninetales (Alola Shadow)",
         "types": [
-          "冰",
-          "妖精"
+          "Ice",
+          "Fairy"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1379,11 +1379,11 @@
       {
         "slotNo": 2,
         "no": 459,
-        "name": "雪笠怪",
+        "name": "Snover",
         "originalName": "Snover (Shadow)",
         "types": [
-          "草",
-          "冰"
+          "Grass",
+          "Ice"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1392,11 +1392,11 @@
       {
         "slotNo": 3,
         "no": 131,
-        "name": "拉普拉斯",
+        "name": "Lapras",
         "originalName": "Lapras (Shadow)",
         "types": [
-          "水",
-          "冰"
+          "Water",
+          "Ice"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1405,11 +1405,11 @@
       {
         "slotNo": 3,
         "no": 91,
-        "name": "刺甲貝",
+        "name": "Cloyster",
         "originalName": "Cloyster (Shadow)",
         "types": [
-          "水",
-          "冰"
+          "Water",
+          "Ice"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1418,11 +1418,11 @@
       {
         "slotNo": 3,
         "no": 460,
-        "name": "暴雪王",
+        "name": "Abomasnow",
         "originalName": "Abomasnow (Shadow)",
         "types": [
-          "草",
-          "冰"
+          "Grass",
+          "Ice"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1440,11 +1440,11 @@
       {
         "slotNo": 1,
         "no": 103,
-        "name": "椰蛋樹",
+        "name": "Exeggutor",
         "originalName": "Exeggutor (Alola Shadow)",
         "types": [
-          "草",
-          "龍"
+          "Grass",
+          "Dragon"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1453,11 +1453,11 @@
       {
         "slotNo": 1,
         "no": 443,
-        "name": "圓陸鯊",
+        "name": "Gible",
         "originalName": "Gible (Shadow)",
         "types": [
-          "龍",
-          "地面"
+          "Dragon",
+          "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1466,10 +1466,10 @@
       {
         "slotNo": 2,
         "no": 148,
-        "name": "哈克龍",
+        "name": "Dragonair",
         "originalName": "Dragonair (Shadow)",
         "types": [
-          "龍"
+          "Dragon"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1478,11 +1478,11 @@
       {
         "slotNo": 2,
         "no": 103,
-        "name": "椰蛋樹",
+        "name": "Exeggutor",
         "originalName": "Exeggutor (Alola Shadow)",
         "types": [
-          "草",
-          "龍"
+          "Grass",
+          "Dragon"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1491,10 +1491,10 @@
       {
         "slotNo": 3,
         "no": 148,
-        "name": "哈克龍",
+        "name": "Dragonair",
         "originalName": "Dragonair (Shadow)",
         "types": [
-          "龍"
+          "Dragon"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1503,11 +1503,11 @@
       {
         "slotNo": 3,
         "no": 149,
-        "name": "快龍",
+        "name": "Dragonite",
         "originalName": "Dragonite (Shadow)",
         "types": [
-          "龍",
-          "飛行"
+          "Dragon",
+          "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1516,11 +1516,11 @@
       {
         "slotNo": 3,
         "no": 444,
-        "name": "尖牙陸鯊",
+        "name": "Gabite",
         "originalName": "Gabite (Shadow)",
         "types": [
-          "龍",
-          "地面"
+          "Dragon",
+          "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1538,11 +1538,11 @@
       {
         "slotNo": 1,
         "no": 88,
-        "name": "臭泥",
+        "name": "Grimer",
         "originalName": "Grimer (Alola Shadow)",
         "types": [
-          "毒",
-          "惡"
+          "Poison",
+          "Dark"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1551,11 +1551,11 @@
       {
         "slotNo": 1,
         "no": 19,
-        "name": "小拉達",
+        "name": "Rattata",
         "originalName": "Rattata (Alola Shadow)",
         "types": [
-          "惡",
-          "一般"
+          "Dark",
+          "Normal"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1564,11 +1564,11 @@
       {
         "slotNo": 2,
         "no": 594,
-        "name": "保母曼波",
+        "name": "Alomomola",
         "originalName": "Muk (Alola Shadow)",
         "types": [
-          "毒",
-          "惡"
+          "Poison",
+          "Dark"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1577,11 +1577,11 @@
       {
         "slotNo": 2,
         "no": 20,
-        "name": "拉達",
+        "name": "Raticate",
         "originalName": "Raticate (Alola Shadow)",
         "types": [
-          "惡",
-          "一般"
+          "Dark",
+          "Normal"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1590,11 +1590,11 @@
       {
         "slotNo": 3,
         "no": 594,
-        "name": "保母曼波",
+        "name": "Alomomola",
         "originalName": "Muk (Alola Shadow)",
         "types": [
-          "毒",
-          "惡"
+          "Poison",
+          "Dark"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1606,17 +1606,17 @@
     "quote": "¡No eres rival para mi voluntad de hierro!",
     "orignialQuote": "“You’re no match for my iron will!” – Steel-type Grunt",
     "category": "Steel",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
         "no": 304,
-        "name": "可可多拉",
+        "name": "Aron",
         "originalName": "Aron (Shadow)",
         "types": [
-          "超能力",
-          "幽靈"
+          "Psychic",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1625,11 +1625,11 @@
       {
         "slotNo": 1,
         "no": 50,
-        "name": "地鼠",
+        "name": "Diglett",
         "originalName": "Diglett (Alola Shadow)",
         "types": [
-          "地面",
-          "鋼"
+          "Ground",
+          "Steel"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1638,11 +1638,11 @@
       {
         "slotNo": 1,
         "no": 27,
-        "name": "穿山鼠",
+        "name": "Sandshrew",
         "originalName": "Sandshrew (Alola Shadow)",
         "types": [
-          "冰",
-          "鋼"
+          "Ice",
+          "Steel"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1651,11 +1651,11 @@
       {
         "slotNo": 2,
         "no": 305,
-        "name": "可多拉",
+        "name": "Lairon",
         "originalName": "Lairon (Shadow)",
         "types": [
-          "鋼",
-          "岩石"
+          "Steel",
+          "Rock"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1664,11 +1664,11 @@
       {
         "slotNo": 2,
         "no": 375,
-        "name": "金屬怪",
+        "name": "Metang",
         "originalName": "Metang (Shadow)",
         "types": [
-          "鋼",
-          "超能力"
+          "Steel",
+          "Psychic"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1677,11 +1677,11 @@
       {
         "slotNo": 2,
         "no": 27,
-        "name": "穿山鼠",
+        "name": "Sandshrew",
         "originalName": "Sandshrew (Alola Shadow)",
         "types": [
-          "冰",
-          "鋼"
+          "Ice",
+          "Steel"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1690,11 +1690,11 @@
       {
         "slotNo": 3,
         "no": 306,
-        "name": "波士可多拉",
+        "name": "Aggron",
         "originalName": "Aggron (Shadow)",
         "types": [
-          "鋼",
-          "岩石"
+          "Steel",
+          "Rock"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1703,11 +1703,11 @@
       {
         "slotNo": 3,
         "no": 212,
-        "name": "巨鉗螳螂",
+        "name": "Scizor",
         "originalName": "Scizor (Shadow)",
         "types": [
-          "蟲",
-          "鋼"
+          "Bug",
+          "Steel"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1725,11 +1725,11 @@
       {
         "slotNo": 1,
         "no": 303,
-        "name": "大嘴娃",
+        "name": "Mawile",
         "originalName": "Mawile (Shadow)",
         "types": [
-          "鋼",
-          "妖精"
+          "Steel",
+          "Fairy"
         ],
         "catchable": false,
         "shinyAvailable": true,
@@ -1738,11 +1738,11 @@
       {
         "slotNo": 1,
         "no": 280,
-        "name": "拉魯拉絲",
+        "name": "Ralts",
         "originalName": "Ralts (Shadow)",
         "types": [
-          "超能力",
-          "幽靈"
+          "Psychic",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1751,10 +1751,10 @@
       {
         "slotNo": 1,
         "no": 209,
-        "name": "布魯",
+        "name": "Snubbull",
         "originalName": "Snubbull (Shadow)",
         "types": [
-          "妖精"
+          "Fairy"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1763,11 +1763,11 @@
       {
         "slotNo": 2,
         "no": 281,
-        "name": "奇魯莉安",
+        "name": "Kirlia",
         "originalName": "Kirlia (Shadow)",
         "types": [
-          "超能力",
-          "妖精"
+          "Psychic",
+          "Fairy"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1776,10 +1776,10 @@
       {
         "slotNo": 2,
         "no": 209,
-        "name": "布魯",
+        "name": "Snubbull",
         "originalName": "Snubbull (Shadow)",
         "types": [
-          "妖精"
+          "Fairy"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1788,10 +1788,10 @@
       {
         "slotNo": 2,
         "no": 210,
-        "name": "布魯皇",
+        "name": "Granbull",
         "originalName": "Granbull (Shadow)",
         "types": [
-          "妖精"
+          "Fairy"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1800,11 +1800,11 @@
       {
         "slotNo": 3,
         "no": 281,
-        "name": "奇魯莉安",
+        "name": "Kirlia",
         "originalName": "Kirlia (Shadow)",
         "types": [
-          "超能力",
-          "妖精"
+          "Psychic",
+          "Fairy"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1813,10 +1813,10 @@
       {
         "slotNo": 3,
         "no": 210,
-        "name": "布魯皇",
+        "name": "Granbull",
         "originalName": "Granbull (Shadow)",
         "types": [
-          "妖精"
+          "Fairy"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1834,11 +1834,11 @@
       {
         "slotNo": 1,
         "no": 165,
-        "name": "芭瓢蟲",
+        "name": "Ledyba",
         "originalName": "Ledyba (Shadow)",
         "types": [
-          "蟲",
-          "飛行"
+          "Bug",
+          "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1847,10 +1847,10 @@
       {
         "slotNo": 1,
         "no": 204,
-        "name": "榛果球",
+        "name": "Pineco",
         "originalName": "Pineco (Shadow)",
         "types": [
-          "蟲"
+          "Bug"
         ],
         "catchable": false,
         "shinyAvailable": true,
@@ -1859,11 +1859,11 @@
       {
         "slotNo": 1,
         "no": 595,
-        "name": "電電蟲",
+        "name": "Joltik",
         "originalName": "Joltik (Shadow)",
         "types": [
-          "蟲",
-          "電"
+          "Bug",
+          "Electric"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1872,11 +1872,11 @@
       {
         "slotNo": 2,
         "no": 13,
-        "name": "獨角蟲",
+        "name": "Weedle",
         "originalName": "Weedle (Shadow)",
         "types": [
-          "蟲",
-          "毒"
+          "Bug",
+          "Poison"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1885,11 +1885,11 @@
       {
         "slotNo": 2,
         "no": 14,
-        "name": "鐵殼蛹",
+        "name": "Kakuna",
         "originalName": "Kakuna (Shadow)",
         "types": [
-          "蟲",
-          "毒"
+          "Bug",
+          "Poison"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1898,11 +1898,11 @@
       {
         "slotNo": 2,
         "no": 15,
-        "name": "大針蜂",
+        "name": "Beedrill",
         "originalName": "Beedrill (Shadow)",
         "types": [
-          "蟲",
-          "毒"
+          "Bug",
+          "Poison"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1911,11 +1911,11 @@
       {
         "slotNo": 3,
         "no": 212,
-        "name": "巨鉗螳螂",
+        "name": "Scizor",
         "originalName": "Scizor (Shadow)",
         "types": [
-          "蟲",
-          "鋼"
+          "Bug",
+          "Steel"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1924,11 +1924,11 @@
       {
         "slotNo": 3,
         "no": 205,
-        "name": "佛烈托斯",
+        "name": "Forretress",
         "originalName": "Forretress (Shadow)",
         "types": [
-          "蟲",
-          "鋼"
+          "Bug",
+          "Steel"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1937,11 +1937,11 @@
       {
         "slotNo": 3,
         "no": 15,
-        "name": "大針蜂",
+        "name": "Beedrill",
         "originalName": "Beedrill (Shadow)",
         "types": [
-          "蟲",
-          "毒"
+          "Bug",
+          "Poison"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1953,16 +1953,16 @@
     "quote": "“Don’t bother – I’ve already won. Get ready to be defeated! Winning is for winners!” – Difficult Grunts",
     "orignialQuote": "“Don’t bother – I’ve already won. Get ready to be defeated! Winning is for winners!” – Difficult Grunts",
     "category": "",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
         "no": 143,
-        "name": "卡比獸",
+        "name": "Snorlax",
         "originalName": "Snorlax (Shadow)",
         "types": [
-          "一般"
+          "Normal"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1971,10 +1971,10 @@
       {
         "slotNo": 2,
         "no": 143,
-        "name": "卡比獸",
+        "name": "Snorlax",
         "originalName": "Snorlax (Shadow)",
         "types": [
-          "一般"
+          "Normal"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1983,11 +1983,11 @@
       {
         "slotNo": 2,
         "no": 62,
-        "name": "蚊香泳士",
+        "name": "Poliwrath",
         "originalName": "Poliwrath (Shadow)",
         "types": [
-          "水",
-          "格鬥"
+          "Water",
+          "Fighting"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1996,11 +1996,11 @@
       {
         "slotNo": 2,
         "no": 282,
-        "name": "沙奈朵",
+        "name": "Gardevoir",
         "originalName": "Gardevoir (Shadow)",
         "types": [
-          "超能力",
-          "妖精"
+          "Psychic",
+          "Fairy"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2009,10 +2009,10 @@
       {
         "slotNo": 3,
         "no": 143,
-        "name": "卡比獸",
+        "name": "Snorlax",
         "originalName": "Snorlax (Shadow)",
         "types": [
-          "一般"
+          "Normal"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2021,11 +2021,11 @@
       {
         "slotNo": 3,
         "no": 130,
-        "name": "暴鯉龍",
+        "name": "Gyarados",
         "originalName": "Gyarados (Shadow)",
         "types": [
-          "水",
-          "飛行"
+          "Water",
+          "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2034,11 +2034,11 @@
       {
         "slotNo": 3,
         "no": 149,
-        "name": "快龍",
+        "name": "Dragonite",
         "originalName": "Dragonite (Shadow)",
         "types": [
-          "龍",
-          "飛行"
+          "Dragon",
+          "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2047,10 +2047,10 @@
       {
         "slotNo": 4,
         "no": 4,
-        "name": "小火龍",
+        "name": "Charmander",
         "originalName": "Charmander (Shadow)",
         "types": [
-          "火"
+          "Fire"
         ],
         "catchable": false,
         "shinyAvailable": true,
@@ -2059,10 +2059,10 @@
       {
         "slotNo": 4,
         "no": 7,
-        "name": "傑尼龜",
+        "name": "Squirtle",
         "originalName": "Squirtle (Shadow)",
         "types": [
-          "水"
+          "Water"
         ],
         "catchable": false,
         "shinyAvailable": true,
@@ -2071,11 +2071,11 @@
       {
         "slotNo": 4,
         "no": 1,
-        "name": "妙蛙種子",
+        "name": "Bulbasaur",
         "originalName": "Bulbasaur (Shadow)",
         "types": [
-          "草",
-          "毒"
+          "Grass",
+          "Poison"
         ],
         "catchable": false,
         "shinyAvailable": true,
@@ -2084,10 +2084,10 @@
       {
         "slotNo": 5,
         "no": 156,
-        "name": "火岩鼠",
+        "name": "Quilava",
         "originalName": "Quilava (Shadow)",
         "types": [
-          "火"
+          "Fire"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2096,10 +2096,10 @@
       {
         "slotNo": 5,
         "no": 159,
-        "name": "藍鱷",
+        "name": "Croconaw",
         "originalName": "Croconaw (Shadow)",
         "types": [
-          "水"
+          "Water"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2108,10 +2108,10 @@
       {
         "slotNo": 5,
         "no": 153,
-        "name": "月桂葉",
+        "name": "Bayleef",
         "originalName": "Bayleef (Shadow)",
         "types": [
-          "草"
+          "Grass"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2120,11 +2120,11 @@
       {
         "slotNo": 6,
         "no": 257,
-        "name": "火焰雞",
+        "name": "Blaziken",
         "originalName": "Blaziken (Shadow)",
         "types": [
-          "火",
-          "格鬥"
+          "Fire",
+          "Fighting"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2133,11 +2133,11 @@
       {
         "slotNo": 6,
         "no": 260,
-        "name": "巨沼怪",
+        "name": "Swampert",
         "originalName": "Swampert (Shadow)",
         "types": [
-          "水",
-          "地面"
+          "Water",
+          "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2146,10 +2146,10 @@
       {
         "slotNo": 6,
         "no": 254,
-        "name": "蜥蜴王",
+        "name": "Sceptile",
         "originalName": "Sceptile (Shadow)",
         "types": [
-          "草"
+          "Grass"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2161,7 +2161,7 @@
     "quote": "About Grunts",
     "orignialQuote": "About Grunts",
     "category": "",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": []
   },
@@ -2169,17 +2169,17 @@
     "quote": "Recommended team for defeating Team GO Rocket Grunts",
     "orignialQuote": "Recommended team for defeating Team GO Rocket Grunts",
     "category": "",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
         "no": 464,
-        "name": "超甲狂犀",
+        "name": "Rhyperior",
         "originalName": "Rhyperior",
         "types": [
-          "地面",
-          "岩石"
+          "Ground",
+          "Rock"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2188,11 +2188,11 @@
       {
         "slotNo": 4,
         "no": 6,
-        "name": "噴火龍",
+        "name": "Charizard",
         "originalName": "Charizard",
         "types": [
-          "火",
-          "飛行"
+          "Fire",
+          "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2201,11 +2201,11 @@
       {
         "slotNo": 7,
         "no": 448,
-        "name": "路卡利歐",
+        "name": "Lucario",
         "originalName": "Lucario",
         "types": [
-          "格鬥",
-          "鋼"
+          "Fighting",
+          "Steel"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2223,11 +2223,11 @@
       {
         "slotNo": 1,
         "no": 302,
-        "name": "勾魂眼",
+        "name": "Sableye",
         "originalName": "Sableye (Shadow)",
         "types": [
-          "惡",
-          "幽靈"
+          "Dark",
+          "Ghost"
         ],
         "catchable": true,
         "shinyAvailable": true,
@@ -2236,11 +2236,11 @@
       {
         "slotNo": 2,
         "no": 227,
-        "name": "盔甲鳥",
+        "name": "Skarmory",
         "originalName": "Skarmory (Shadow)",
         "types": [
-          "鋼",
-          "飛行"
+          "Steel",
+          "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2249,11 +2249,11 @@
       {
         "slotNo": 2,
         "no": 282,
-        "name": "沙奈朵",
+        "name": "Gardevoir",
         "originalName": "Gardevoir (Shadow)",
         "types": [
-          "超能力",
-          "妖精"
+          "Psychic",
+          "Fairy"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2262,11 +2262,11 @@
       {
         "slotNo": 2,
         "no": 802,
-        "name": "瑪夏多",
+        "name": "Marshadow",
         "originalName": "Muk (Shadow)",
         "types": [
-          "超能力",
-          "幽靈"
+          "Psychic",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2275,11 +2275,11 @@
       {
         "slotNo": 3,
         "no": 71,
-        "name": "大食花",
+        "name": "Victreebel",
         "originalName": "Victreebel (Shadow)",
         "types": [
-          "草",
-          "毒"
+          "Grass",
+          "Poison"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2288,11 +2288,11 @@
       {
         "slotNo": 3,
         "no": 130,
-        "name": "暴鯉龍",
+        "name": "Gyarados",
         "originalName": "Gyarados (Shadow)",
         "types": [
-          "水",
-          "飛行"
+          "Water",
+          "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2301,11 +2301,11 @@
       {
         "slotNo": 3,
         "no": 229,
-        "name": "黑魯加",
+        "name": "Houndoom",
         "originalName": "Houndoom (Shadow)",
         "types": [
-          "惡",
-          "火"
+          "Dark",
+          "Fire"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2323,10 +2323,10 @@
       {
         "slotNo": 1,
         "no": 147,
-        "name": "迷你龍",
+        "name": "Dratini",
         "originalName": "Dratini (Shadow)",
         "types": [
-          "龍"
+          "Dragon"
         ],
         "catchable": true,
         "shinyAvailable": true,
@@ -2335,11 +2335,11 @@
       {
         "slotNo": 2,
         "no": 199,
-        "name": "呆呆王",
+        "name": "Slowking",
         "originalName": "Slowking (Shadow)",
         "types": [
-          "水",
-          "超能力"
+          "Water",
+          "Psychic"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2348,11 +2348,11 @@
       {
         "slotNo": 2,
         "no": 475,
-        "name": "艾路雷朵",
+        "name": "Gallade",
         "originalName": "Gallade (Shadow)",
         "types": [
-          "超能力",
-          "格鬥"
+          "Psychic",
+          "Fighting"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2361,11 +2361,11 @@
       {
         "slotNo": 2,
         "no": 346,
-        "name": "搖籃百合",
+        "name": "Cradily",
         "originalName": "Cradily (Shadow)",
         "types": [
-          "岩石",
-          "草"
+          "Rock",
+          "Grass"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2374,11 +2374,11 @@
       {
         "slotNo": 3,
         "no": 248,
-        "name": "班基拉斯",
+        "name": "Tyranitar",
         "originalName": "Tyranitar (Shadow)",
         "types": [
-          "岩石",
-          "惡"
+          "Rock",
+          "Dark"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2387,11 +2387,11 @@
       {
         "slotNo": 3,
         "no": 473,
-        "name": "象牙豬",
+        "name": "Mamoswine",
         "originalName": "Mamoswine (Shadow)",
         "types": [
-          "冰",
-          "地面"
+          "Ice",
+          "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2400,10 +2400,10 @@
       {
         "slotNo": 3,
         "no": 477,
-        "name": "黑夜魔靈",
+        "name": "Dusknoir",
         "originalName": "Dusknoir (Shadow)",
         "types": [
-          "幽靈"
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2421,11 +2421,11 @@
       {
         "slotNo": 1,
         "no": 69,
-        "name": "喇叭芽",
+        "name": "Bellsprout",
         "originalName": "Bellsprout (Shadow)",
         "types": [
-          "草",
-          "毒"
+          "Grass",
+          "Poison"
         ],
         "catchable": true,
         "shinyAvailable": true,
@@ -2434,10 +2434,10 @@
       {
         "slotNo": 2,
         "no": 65,
-        "name": "胡地",
+        "name": "Alakazam",
         "originalName": "Alakazam (Shadow)",
         "types": [
-          "超能力"
+          "Psychic"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2446,10 +2446,10 @@
       {
         "slotNo": 2,
         "no": 429,
-        "name": "夢妖魔",
+        "name": "Mismagius",
         "originalName": "Mismagius (Shadow)",
         "types": [
-          "幽靈"
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2458,11 +2458,11 @@
       {
         "slotNo": 2,
         "no": 319,
-        "name": "巨牙鯊",
+        "name": "Sharpedo",
         "originalName": "Sharpedo (Shadow)",
         "types": [
-          "水",
-          "惡"
+          "Water",
+          "Dark"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2471,11 +2471,11 @@
       {
         "slotNo": 3,
         "no": 212,
-        "name": "巨鉗螳螂",
+        "name": "Scizor",
         "originalName": "Scizor (Shadow)",
         "types": [
-          "蟲",
-          "鋼"
+          "Bug",
+          "Steel"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2484,10 +2484,10 @@
       {
         "slotNo": 3,
         "no": 143,
-        "name": "卡比獸",
+        "name": "Snorlax",
         "originalName": "Snorlax (Shadow)",
         "types": [
-          "一般"
+          "Normal"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2496,11 +2496,11 @@
       {
         "slotNo": 3,
         "no": 462,
-        "name": "自爆磁怪",
+        "name": "Magnezone",
         "originalName": "Magnezone (Shadow)",
         "types": [
-          "電",
-          "鋼"
+          "Electric",
+          "Steel"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2518,10 +2518,10 @@
       {
         "slotNo": 1,
         "no": 53,
-        "name": "貓老大",
+        "name": "Persian",
         "originalName": "Persian (Shadow)",
         "types": [
-          "一般"
+          "Normal"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2530,11 +2530,11 @@
       {
         "slotNo": 2,
         "no": 34,
-        "name": "尼多王",
+        "name": "Nidoking",
         "originalName": "Nidoking (Shadow)",
         "types": [
-          "毒",
-          "地面"
+          "Poison",
+          "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2543,10 +2543,10 @@
       {
         "slotNo": 2,
         "no": 99,
-        "name": "巨鉗蟹",
+        "name": "Kingler",
         "originalName": "Kingler (Shadow)",
         "types": [
-          "水"
+          "Water"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2555,11 +2555,11 @@
       {
         "slotNo": 2,
         "no": 445,
-        "name": "烈咬陸鯊",
+        "name": "Garchomp",
         "originalName": "Garchomp (Shadow)",
         "types": [
-          "龍",
-          "地面"
+          "Dragon",
+          "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2568,10 +2568,10 @@
       {
         "slotNo": 3,
         "no": 486,
-        "name": "雷吉奇卡斯",
+        "name": "Regigigas",
         "originalName": "Regigigas (Shadow)",
         "types": [
-          "一般"
+          "Normal"
         ],
         "catchable": true,
         "shinyAvailable": false,
