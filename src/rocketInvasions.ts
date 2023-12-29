@@ -98,8 +98,6 @@ const getGruntRocketInvasions = async () => {
   for (const rocketInvasionItem of rocketInvasionItems) {
     const orignialQuote = rocketInvasionItem.querySelector('h2')?.rawText.trim() ?? '';
     const categoryRaw = rocketInvasionItem.querySelector('p span.type-badge')?.rawText.trim() ?? '';
-    // const catchableInfo = rocketInvasionItem.querySelector('p strong')?.rawText.trim() ?? '';
-    // console.log(catchableInfo);
 
     const lineupSlotItems = rocketInvasionItem.querySelectorAll('.hub-scrollable table tr td');
     const lineupPokemons = lineupSlotItems.reduce((all, lineupSlotItem, i) => {
@@ -109,7 +107,6 @@ const getGruntRocketInvasions = async () => {
       lineupPokemonItems.forEach((lineupPokemonItem, j) => {
         const originalName = lineupPokemonItem.querySelector('.content .name')?.rawText.trim() ?? '';
         const pokemon = pokedex.getPokemonByFuzzyName(originalName);
-        
 
         all.push({
           slotNo: i + 1,
