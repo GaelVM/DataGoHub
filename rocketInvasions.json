@@ -16,7 +16,8 @@
         ],
         "catchable": false,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/052.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/052.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/52.png"
       },
       {
         "slotNo": 1,
@@ -28,7 +29,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/431.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/431.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/431.png"
       },
       {
         "slotNo": 2,
@@ -40,7 +42,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/019.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/019.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/19.png"
       },
       {
         "slotNo": 2,
@@ -52,7 +55,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/020.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/020.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/20.png"
       },
       {
         "slotNo": 2,
@@ -64,7 +68,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/432.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/432.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/432.png"
       },
       {
         "slotNo": 3,
@@ -76,7 +81,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/217.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/217.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/217.png"
       },
       {
         "slotNo": 3,
@@ -89,7 +95,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/400.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/400.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/400.png"
       },
       {
         "slotNo": 3,
@@ -101,7 +108,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/020.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/020.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/20.png"
       }
     ]
   },
@@ -109,7 +117,7 @@
     "quote": "¿Sabes lo caliente que puede llegar a ser el aliento de fuego de Pokémon?",
     "orignialQuote": "“Do you know how hot Pokémon fire breath can get?” – Fire-type Grunt",
     "category": "Fire",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -123,7 +131,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/607.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/607.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/607.png"
       },
       {
         "slotNo": 1,
@@ -135,7 +144,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/037.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/037.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/37.png"
       },
       {
         "slotNo": 1,
@@ -148,7 +158,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/322.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/322.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/322.png"
       },
       {
         "slotNo": 2,
@@ -160,7 +171,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/156.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/156.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/156.png"
       },
       {
         "slotNo": 2,
@@ -173,7 +185,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/126.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/126.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/802.png"
       },
       {
         "slotNo": 3,
@@ -185,7 +198,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/157.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/157.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/157.png"
       },
       {
         "slotNo": 3,
@@ -197,7 +211,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/038.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/038.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/38.png"
       },
       {
         "slotNo": 3,
@@ -210,7 +225,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/323.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/323.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/323.png"
       }
     ]
   },
@@ -218,7 +234,7 @@
     "quote": "Estas aguas son traicioneras.",
     "orignialQuote": "“These waters are treacherous” – Water-type Grunt",
     "category": "Water",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -231,7 +247,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/090.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/090.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/90.png"
       },
       {
         "slotNo": 1,
@@ -243,7 +260,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/054.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/054.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/54.png"
       },
       {
         "slotNo": 1,
@@ -256,7 +274,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/339.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/339.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/339.png"
       },
       {
         "slotNo": 2,
@@ -268,7 +287,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/159.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/159.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/159.png"
       },
       {
         "slotNo": 2,
@@ -280,7 +300,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/055.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/055.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/55.png"
       },
       {
         "slotNo": 3,
@@ -292,7 +313,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/160.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/160.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/160.png"
       },
       {
         "slotNo": 3,
@@ -304,7 +326,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/321.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/321.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/321.png"
       },
       {
         "slotNo": 3,
@@ -316,7 +339,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/055.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/055.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/55.png"
       },
       {
         "slotNo": 4,
@@ -328,7 +352,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/129.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/129.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/129.png"
       },
       {
         "slotNo": 5,
@@ -340,7 +365,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/129.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/129.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/129.png"
       },
       {
         "slotNo": 6,
@@ -352,7 +378,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/129.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/129.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/129.png"
       },
       {
         "slotNo": 6,
@@ -365,7 +392,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/130.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/130.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/130.png"
       }
     ]
   },
@@ -373,7 +401,7 @@
     "quote": "¡No te metas con nosotros!",
     "orignialQuote": "“Don’t tangle with us!” – Grass-type Grunt",
     "category": "Grass",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -386,7 +414,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/331.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/331.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/331.png"
       },
       {
         "slotNo": 1,
@@ -399,7 +428,8 @@
         ],
         "catchable": false,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/069.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/069.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/69.png"
       },
       {
         "slotNo": 1,
@@ -412,7 +442,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/043.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/043.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/43.png"
       },
       {
         "slotNo": 2,
@@ -424,7 +455,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/153.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/153.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/153.png"
       },
       {
         "slotNo": 2,
@@ -437,7 +469,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/044.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/044.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/44.png"
       },
       {
         "slotNo": 3,
@@ -450,7 +483,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/332.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/332.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/332.png"
       },
       {
         "slotNo": 3,
@@ -462,7 +496,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/154.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/154.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/154.png"
       },
       {
         "slotNo": 3,
@@ -475,7 +510,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/591.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/591.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/591.png"
       }
     ]
   },
@@ -483,7 +519,7 @@
     "quote": "¡Prepárate para sorprenderte!",
     "orignialQuote": "“Get ready to be shocked!” – Electric-type Grunt",
     "category": "Electric",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -497,7 +533,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/179.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/179.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/802.png"
       },
       {
         "slotNo": 1,
@@ -510,7 +547,8 @@
         ],
         "catchable": false,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/081.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/081.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/81.png"
       },
       {
         "slotNo": 2,
@@ -523,7 +561,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/074_f2.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/074_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/74.png"
       },
       {
         "slotNo": 2,
@@ -535,7 +574,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/100.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/100.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/100.png"
       },
       {
         "slotNo": 3,
@@ -547,7 +587,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/523.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/523.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/523.png"
       },
       {
         "slotNo": 3,
@@ -559,7 +600,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/181.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/181.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/181.png"
       },
       {
         "slotNo": 3,
@@ -571,7 +613,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/405.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/405.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/405.png"
       }
     ]
   },
@@ -579,7 +622,7 @@
     "quote": "¡Este físico musculoso no es sólo para lucirse!",
     "orignialQuote": "“This buff physique isn’t just for show!” – Fighting-type Grunt",
     "category": "Fighting",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -593,7 +636,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/215.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/215.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/215.png"
       },
       {
         "slotNo": 1,
@@ -605,7 +649,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/106.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/106.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/106.png"
       },
       {
         "slotNo": 1,
@@ -617,7 +662,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/107.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/107.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/107.png"
       },
       {
         "slotNo": 2,
@@ -629,7 +675,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/237.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/237.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/237.png"
       },
       {
         "slotNo": 2,
@@ -641,7 +688,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/106.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/106.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/106.png"
       },
       {
         "slotNo": 2,
@@ -653,7 +701,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/107.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/107.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/107.png"
       },
       {
         "slotNo": 3,
@@ -665,7 +714,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/237.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/237.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/237.png"
       }
     ]
   },
@@ -673,7 +723,7 @@
     "quote": "¡Enrollado y listo para atacar!",
     "orignialQuote": "“Coiled and ready to strike!” – Poison-type Grunt",
     "category": "Poison",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -686,7 +736,8 @@
         ],
         "catchable": false,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/088.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/088.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/88.png"
       },
       {
         "slotNo": 1,
@@ -699,7 +750,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/590.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/590.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/590.png"
       },
       {
         "slotNo": 2,
@@ -711,7 +763,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/030.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/030.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/30.png"
       },
       {
         "slotNo": 2,
@@ -723,7 +776,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/033.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/033.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/33.png"
       },
       {
         "slotNo": 3,
@@ -736,7 +790,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/089.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/089.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/802.png"
       },
       {
         "slotNo": 3,
@@ -748,7 +803,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/110.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/110.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/110.png"
       }
     ]
   },
@@ -756,7 +812,7 @@
     "quote": "¡Serás derrotado hasta el suelo!",
     "orignialQuote": "“You’ll be defeated into the ground!” – Ground-type Grunt",
     "category": "Ground",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -770,7 +826,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/111.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/111.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/111.png"
       },
       {
         "slotNo": 1,
@@ -782,7 +839,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/529.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/529.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/529.png"
       },
       {
         "slotNo": 2,
@@ -794,7 +852,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/449.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/449.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/449.png"
       },
       {
         "slotNo": 2,
@@ -807,7 +866,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/111.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/111.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/111.png"
       },
       {
         "slotNo": 3,
@@ -819,7 +879,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/450.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/450.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/450.png"
       },
       {
         "slotNo": 3,
@@ -832,7 +893,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/195.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/195.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/195.png"
       }
     ]
   },
@@ -854,7 +916,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/177.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/177.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/177.png"
       },
       {
         "slotNo": 1,
@@ -867,7 +930,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/580.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/580.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/580.png"
       },
       {
         "slotNo": 1,
@@ -880,7 +944,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/041.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/041.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/41.png"
       },
       {
         "slotNo": 2,
@@ -893,7 +958,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/178.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/178.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/178.png"
       },
       {
         "slotNo": 2,
@@ -906,7 +972,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/397.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/397.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/397.png"
       },
       {
         "slotNo": 2,
@@ -919,7 +986,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/042.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/042.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/42.png"
       },
       {
         "slotNo": 3,
@@ -932,7 +1000,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/130.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/130.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/130.png"
       },
       {
         "slotNo": 3,
@@ -945,7 +1014,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/149.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/149.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/149.png"
       },
       {
         "slotNo": 3,
@@ -958,7 +1028,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/169.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/169.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/169.png"
       }
     ]
   },
@@ -980,7 +1051,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/177.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/177.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/177.png"
       },
       {
         "slotNo": 1,
@@ -992,7 +1064,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/325.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/325.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/325.png"
       },
       {
         "slotNo": 1,
@@ -1005,7 +1078,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/063.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/063.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/63.png"
       },
       {
         "slotNo": 2,
@@ -1018,7 +1092,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/280.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/280.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/280.png"
       },
       {
         "slotNo": 2,
@@ -1031,7 +1106,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/203.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/203.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/203.png"
       },
       {
         "slotNo": 3,
@@ -1043,7 +1119,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/097.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/097.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/97.png"
       },
       {
         "slotNo": 3,
@@ -1056,7 +1133,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/375.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/375.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/375.png"
       },
       {
         "slotNo": 3,
@@ -1068,7 +1146,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/065.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/065.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/65.png"
       }
     ]
   },
@@ -1076,7 +1155,7 @@
     "quote": "¡Vamos a rockanrolear!",
     "orignialQuote": "“Let’s rock and roll!” – Rock-type Grunt",
     "category": "Rock",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1089,7 +1168,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/408.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/408.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/408.png"
       },
       {
         "slotNo": 1,
@@ -1102,7 +1182,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/410.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/410.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/410.png"
       },
       {
         "slotNo": 1,
@@ -1115,7 +1196,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/074_f2.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/074_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/74.png"
       },
       {
         "slotNo": 2,
@@ -1128,7 +1210,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/345.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/345.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/345.png"
       },
       {
         "slotNo": 2,
@@ -1141,7 +1224,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/347.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/347.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/347.png"
       },
       {
         "slotNo": 2,
@@ -1154,7 +1238,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/075.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/075.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/75.png"
       },
       {
         "slotNo": 3,
@@ -1167,7 +1252,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/076.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/076.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/76.png"
       },
       {
         "slotNo": 3,
@@ -1180,7 +1266,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/076_f2.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/076_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/76.png"
       }
     ]
   },
@@ -1202,7 +1289,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/092.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/092.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/92.png"
       },
       {
         "slotNo": 1,
@@ -1214,7 +1302,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/355.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/355.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/355.png"
       },
       {
         "slotNo": 1,
@@ -1226,7 +1315,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/353.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/353.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/353.png"
       },
       {
         "slotNo": 2,
@@ -1238,7 +1328,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/356.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/356.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/356.png"
       },
       {
         "slotNo": 2,
@@ -1250,7 +1341,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/354.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/354.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/354.png"
       },
       {
         "slotNo": 2,
@@ -1263,7 +1355,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/622.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/622.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/622.png"
       },
       {
         "slotNo": 3,
@@ -1275,7 +1368,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/477.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/477.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/477.png"
       },
       {
         "slotNo": 3,
@@ -1288,7 +1382,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/094.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/094.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/94.png"
       },
       {
         "slotNo": 3,
@@ -1301,7 +1396,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/623.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/623.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/623.png"
       }
     ]
   },
@@ -1309,7 +1405,7 @@
     "quote": "Te quedarás congelado en seco.",
     "orignialQuote": "“You’re gonna be frozen in your tracks.” – Ice-type Grunt",
     "category": "Ice",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1323,7 +1419,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/027_f2.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/027_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/27.png"
       },
       {
         "slotNo": 1,
@@ -1335,7 +1432,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/037_f2.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/037_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/37.png"
       },
       {
         "slotNo": 1,
@@ -1348,7 +1446,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/220.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/220.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/220.png"
       },
       {
         "slotNo": 2,
@@ -1361,7 +1460,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/028_f2.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/028_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/28.png"
       },
       {
         "slotNo": 2,
@@ -1374,7 +1474,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/038_f2.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/038_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/38.png"
       },
       {
         "slotNo": 2,
@@ -1387,7 +1488,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/459.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/459.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/459.png"
       },
       {
         "slotNo": 3,
@@ -1400,7 +1502,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/131.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/131.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/131.png"
       },
       {
         "slotNo": 3,
@@ -1413,7 +1516,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/091.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/091.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/91.png"
       },
       {
         "slotNo": 3,
@@ -1426,7 +1530,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/460.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/460.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/460.png"
       }
     ]
   },
@@ -1434,7 +1539,7 @@
     "quote": "¡RUGIDO! … ¿Qué te parece?",
     "orignialQuote": "“ROAR! … How’d that sound?” – Dragon-type Grunt",
     "category": "Dragon",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1448,7 +1553,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/103_f2.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/103_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/103.png"
       },
       {
         "slotNo": 1,
@@ -1461,7 +1567,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/443.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/443.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/443.png"
       },
       {
         "slotNo": 2,
@@ -1473,7 +1580,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/148.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/148.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/148.png"
       },
       {
         "slotNo": 2,
@@ -1486,7 +1594,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/103_f2.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/103_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/103.png"
       },
       {
         "slotNo": 3,
@@ -1498,7 +1607,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/148.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/148.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/148.png"
       },
       {
         "slotNo": 3,
@@ -1511,7 +1621,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/149.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/149.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/149.png"
       },
       {
         "slotNo": 3,
@@ -1524,7 +1635,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/444.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/444.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/444.png"
       }
     ]
   },
@@ -1546,7 +1658,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/088_f2.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/088_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/88.png"
       },
       {
         "slotNo": 1,
@@ -1559,7 +1672,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/019_f2.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/019_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/19.png"
       },
       {
         "slotNo": 2,
@@ -1572,7 +1686,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/089_f2.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/089_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/594.png"
       },
       {
         "slotNo": 2,
@@ -1585,7 +1700,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/020_f2.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/020_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/20.png"
       },
       {
         "slotNo": 3,
@@ -1598,7 +1714,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/089_f2.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/089_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/594.png"
       }
     ]
   },
@@ -1620,7 +1737,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/304.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/304.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/304.png"
       },
       {
         "slotNo": 1,
@@ -1633,7 +1751,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/050_f2.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/050_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/50.png"
       },
       {
         "slotNo": 1,
@@ -1646,7 +1765,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/027_f2.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/027_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/27.png"
       },
       {
         "slotNo": 2,
@@ -1659,7 +1779,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/305.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/305.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/305.png"
       },
       {
         "slotNo": 2,
@@ -1672,7 +1793,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/375.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/375.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/375.png"
       },
       {
         "slotNo": 2,
@@ -1685,7 +1807,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/027_f2.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/027_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/27.png"
       },
       {
         "slotNo": 3,
@@ -1698,7 +1821,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/306.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/306.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/306.png"
       },
       {
         "slotNo": 3,
@@ -1711,7 +1835,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/212.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/212.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/212.png"
       }
     ]
   },
@@ -1719,7 +1844,7 @@
     "quote": "¡Mira mi lindo Pokémon!",
     "orignialQuote": "“Check out my cute Pokémon!” – Fairy-type Grunt",
     "category": "Fairy",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1733,7 +1858,8 @@
         ],
         "catchable": false,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/303.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/303.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/303.png"
       },
       {
         "slotNo": 1,
@@ -1746,7 +1872,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/280.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/280.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/280.png"
       },
       {
         "slotNo": 1,
@@ -1758,7 +1885,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/209.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/209.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/209.png"
       },
       {
         "slotNo": 2,
@@ -1771,7 +1899,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/281.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/281.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/281.png"
       },
       {
         "slotNo": 2,
@@ -1783,7 +1912,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/209.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/209.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/209.png"
       },
       {
         "slotNo": 2,
@@ -1795,7 +1925,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/210.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/210.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/210.png"
       },
       {
         "slotNo": 3,
@@ -1808,7 +1939,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/281.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/281.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/281.png"
       },
       {
         "slotNo": 3,
@@ -1820,7 +1952,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/210.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/210.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/210.png"
       }
     ]
   },
@@ -1828,7 +1961,7 @@
     "quote": "¡Vamos, mi Pokémon súper bicho!",
     "orignialQuote": "“Go, my super bug Pokémon!” – Bug-type Grunt",
     "category": "",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1842,7 +1975,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/165.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/165.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/165.png"
       },
       {
         "slotNo": 1,
@@ -1854,7 +1988,8 @@
         ],
         "catchable": false,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/204.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/204.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/204.png"
       },
       {
         "slotNo": 1,
@@ -1867,7 +2002,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/595.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/595.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/595.png"
       },
       {
         "slotNo": 2,
@@ -1880,7 +2016,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/013.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/013.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/13.png"
       },
       {
         "slotNo": 2,
@@ -1893,7 +2030,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/014.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/014.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/14.png"
       },
       {
         "slotNo": 2,
@@ -1906,7 +2044,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/015.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/015.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/15.png"
       },
       {
         "slotNo": 3,
@@ -1919,7 +2058,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/212.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/212.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/212.png"
       },
       {
         "slotNo": 3,
@@ -1932,7 +2072,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/205.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/205.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/205.png"
       },
       {
         "slotNo": 3,
@@ -1945,7 +2086,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/015.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/015.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/15.png"
       }
     ]
   },
@@ -1953,7 +2095,7 @@
     "quote": "“Don’t bother – I’ve already won. Get ready to be defeated! Winning is for winners!” – Difficult Grunts",
     "orignialQuote": "“Don’t bother – I’ve already won. Get ready to be defeated! Winning is for winners!” – Difficult Grunts",
     "category": "",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1966,7 +2108,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/143.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/143.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/143.png"
       },
       {
         "slotNo": 2,
@@ -1978,7 +2121,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/143.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/143.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/143.png"
       },
       {
         "slotNo": 2,
@@ -1991,7 +2135,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/062.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/062.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/62.png"
       },
       {
         "slotNo": 2,
@@ -2004,7 +2149,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/282.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/282.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/282.png"
       },
       {
         "slotNo": 3,
@@ -2016,7 +2162,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/143.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/143.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/143.png"
       },
       {
         "slotNo": 3,
@@ -2029,7 +2176,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/130.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/130.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/130.png"
       },
       {
         "slotNo": 3,
@@ -2042,7 +2190,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/149.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/149.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/149.png"
       },
       {
         "slotNo": 4,
@@ -2054,7 +2203,8 @@
         ],
         "catchable": false,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/004.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/004.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/4.png"
       },
       {
         "slotNo": 4,
@@ -2066,7 +2216,8 @@
         ],
         "catchable": false,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/007.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/007.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/7.png"
       },
       {
         "slotNo": 4,
@@ -2079,7 +2230,8 @@
         ],
         "catchable": false,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/001.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/001.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/1.png"
       },
       {
         "slotNo": 5,
@@ -2091,7 +2243,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/156.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/156.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/156.png"
       },
       {
         "slotNo": 5,
@@ -2103,7 +2256,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/159.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/159.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/159.png"
       },
       {
         "slotNo": 5,
@@ -2115,7 +2269,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/153.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/153.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/153.png"
       },
       {
         "slotNo": 6,
@@ -2128,7 +2283,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/257.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/257.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/257.png"
       },
       {
         "slotNo": 6,
@@ -2141,7 +2297,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/260.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/260.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/260.png"
       },
       {
         "slotNo": 6,
@@ -2153,7 +2310,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/254.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/254.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/254.png"
       }
     ]
   },
@@ -2161,7 +2319,7 @@
     "quote": "About Grunts",
     "orignialQuote": "About Grunts",
     "category": "",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": []
   },
@@ -2169,7 +2327,7 @@
     "quote": "Recommended team for defeating Team GO Rocket Grunts",
     "orignialQuote": "Recommended team for defeating Team GO Rocket Grunts",
     "category": "",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2183,7 +2341,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/464.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/464.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/464.png"
       },
       {
         "slotNo": 4,
@@ -2196,7 +2355,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/006.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/006.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/6.png"
       },
       {
         "slotNo": 7,
@@ -2209,7 +2369,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/448.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/448.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/448.png"
       }
     ]
   },
@@ -2231,7 +2392,8 @@
         ],
         "catchable": true,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/302.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/302.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/302.png"
       },
       {
         "slotNo": 2,
@@ -2244,7 +2406,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/227.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/227.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/227.png"
       },
       {
         "slotNo": 2,
@@ -2257,7 +2420,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/282.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/282.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/282.png"
       },
       {
         "slotNo": 2,
@@ -2270,7 +2434,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/089.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/089.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/802.png"
       },
       {
         "slotNo": 3,
@@ -2283,7 +2448,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/071.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/071.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/71.png"
       },
       {
         "slotNo": 3,
@@ -2296,7 +2462,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/130.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/130.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/130.png"
       },
       {
         "slotNo": 3,
@@ -2309,7 +2476,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/229.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/229.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/229.png"
       }
     ]
   },
@@ -2330,7 +2498,8 @@
         ],
         "catchable": true,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/147.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/147.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/147.png"
       },
       {
         "slotNo": 2,
@@ -2343,7 +2512,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/199.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/199.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/199.png"
       },
       {
         "slotNo": 2,
@@ -2356,7 +2526,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/475.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/475.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/475.png"
       },
       {
         "slotNo": 2,
@@ -2369,7 +2540,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/346.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/346.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/346.png"
       },
       {
         "slotNo": 3,
@@ -2382,7 +2554,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/248.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/248.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/248.png"
       },
       {
         "slotNo": 3,
@@ -2395,7 +2568,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/473.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/473.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/473.png"
       },
       {
         "slotNo": 3,
@@ -2407,7 +2581,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/477.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/477.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/477.png"
       }
     ]
   },
@@ -2429,7 +2604,8 @@
         ],
         "catchable": true,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/069.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/069.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/69.png"
       },
       {
         "slotNo": 2,
@@ -2441,7 +2617,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/065.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/065.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/65.png"
       },
       {
         "slotNo": 2,
@@ -2453,7 +2630,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/429.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/429.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/429.png"
       },
       {
         "slotNo": 2,
@@ -2466,7 +2644,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/319.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/319.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/319.png"
       },
       {
         "slotNo": 3,
@@ -2479,7 +2658,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/212.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/212.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/212.png"
       },
       {
         "slotNo": 3,
@@ -2491,7 +2671,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/143.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/143.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/143.png"
       },
       {
         "slotNo": 3,
@@ -2504,7 +2685,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/462.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/462.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/462.png"
       }
     ]
   },
@@ -2525,7 +2707,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/053.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/053.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/53.png"
       },
       {
         "slotNo": 2,
@@ -2538,7 +2721,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/034.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/034.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/34.png"
       },
       {
         "slotNo": 2,
@@ -2550,7 +2734,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/099.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/099.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/99.png"
       },
       {
         "slotNo": 2,
@@ -2563,7 +2748,8 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/445.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/445.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/445.png"
       },
       {
         "slotNo": 3,
@@ -2575,7 +2761,8 @@
         ],
         "catchable": true,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/486.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/486.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/486.png"
       }
     ]
   }
