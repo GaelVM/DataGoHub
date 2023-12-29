@@ -116,9 +116,9 @@ const getGruntRocketInvasions = async () => {
           slotNo: i + 1,
           no: pokemon.no,
           // name: pokemon.form ? `${pokemon.name} (${pokemon.form})` : pokemon.name,
-          name: pokemon.name,
+          name: pokemon.name || originalName,
           originalName: originalName,
-          types: pokemon.types,
+          types: pokemon.types?.map((type: string) => type) || [],  // Usar los tipos en inglés si están disponibles
           catchable: false, // FIXME: not implemented yet.
           shinyAvailable,
           imageUrl,
