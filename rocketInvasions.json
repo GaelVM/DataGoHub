@@ -117,7 +117,7 @@
     "quote": "¿Sabes lo caliente que puede llegar a ser el aliento de fuego de Pokémon?",
     "orignialQuote": "“Do you know how hot Pokémon fire breath can get?” – Fire-type Grunt",
     "category": "Fire",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -234,7 +234,7 @@
     "quote": "Estas aguas son traicioneras.",
     "orignialQuote": "“These waters are treacherous” – Water-type Grunt",
     "category": "Water",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -519,7 +519,7 @@
     "quote": "¡Prepárate para sorprenderte!",
     "orignialQuote": "“Get ready to be shocked!” – Electric-type Grunt",
     "category": "Electric",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -723,7 +723,7 @@
     "quote": "¡Enrollado y listo para atacar!",
     "orignialQuote": "“Coiled and ready to strike!” – Poison-type Grunt",
     "category": "Poison",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1644,7 +1644,7 @@
     "quote": "Donde hay luz, también hay sombra.",
     "orignialQuote": "“Wherever there is light, there is also shadow.” – Dark-type Grunt",
     "category": "Dark",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1723,7 +1723,7 @@
     "quote": "¡No eres rival para mi voluntad de hierro!",
     "orignialQuote": "“You’re no match for my iron will!” – Steel-type Grunt",
     "category": "Steel",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1844,7 +1844,7 @@
     "quote": "¡Mira mi lindo Pokémon!",
     "orignialQuote": "“Check out my cute Pokémon!” – Fairy-type Grunt",
     "category": "Fairy",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2319,7 +2319,7 @@
     "quote": "About Grunts",
     "orignialQuote": "About Grunts",
     "category": "",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": []
   },
