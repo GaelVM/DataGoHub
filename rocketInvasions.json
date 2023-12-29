@@ -3,7 +3,7 @@
     "quote": "Normal no significa débil",
     "orignialQuote": "“Normal doesn’t mean weak.” – Normal-type Grunt",
     "category": "Normal",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -401,7 +401,7 @@
     "quote": "¡No te metas con nosotros!",
     "orignialQuote": "“Don’t tangle with us!” – Grass-type Grunt",
     "category": "Grass",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1275,7 +1275,7 @@
     "quote": "Ke…ke…ke…ke…ke…ke！",
     "orignialQuote": "“Ke…ke…ke…ke…ke…ke!” – Ghost-type Grunt",
     "category": "Ghost",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1405,7 +1405,7 @@
     "quote": "Te quedarás congelado en seco.",
     "orignialQuote": "“You’re gonna be frozen in your tracks.” – Ice-type Grunt",
     "category": "Ice",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1723,7 +1723,7 @@
     "quote": "¡No eres rival para mi voluntad de hierro!",
     "orignialQuote": "“You’re no match for my iron will!” – Steel-type Grunt",
     "category": "Steel",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1961,7 +1961,7 @@
     "quote": "¡Vamos, mi Pokémon súper bicho!",
     "orignialQuote": "“Go, my super bug Pokémon!” – Bug-type Grunt",
     "category": "",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2095,7 +2095,7 @@
     "quote": "“Don’t bother – I’ve already won. Get ready to be defeated! Winning is for winners!” – Difficult Grunts",
     "orignialQuote": "“Don’t bother – I’ve already won. Get ready to be defeated! Winning is for winners!” – Difficult Grunts",
     "category": "",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2319,7 +2319,7 @@
     "quote": "About Grunts",
     "orignialQuote": "About Grunts",
     "category": "",
-    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-male.png",
+    "characterImageUrl": "https://github.com/GaelVM/DataGoHub/tree/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": []
   },
