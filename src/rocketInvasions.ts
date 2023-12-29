@@ -28,6 +28,7 @@ interface LineupPokemon {
   catchable: boolean;
   shinyAvailable: boolean;
   imageUrl: string;
+  imageIco: string; // Nueva propiedad para el ícono
 }
 
 const pokedex = new Pokedex();
@@ -108,6 +109,7 @@ const getGruntRocketInvasions = async () => {
         const pokemon = pokedex.getPokemonByFuzzyName(originalName, 'en-US'); // Cambio aquí para obtener el nombre en inglés.
         const imageUrl = lineupPokemonItem.querySelector('img')?.getAttribute('data-lazy-src') ?? '';
         const shinyAvailable = lineupPokemonItem.classNames.includes('shiny');
+        const imageIco = `https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/${pokemon.no}.png`; // Nueva propiedad para el ícono
 
         all.push({
           slotNo: i + 1,
@@ -118,6 +120,7 @@ const getGruntRocketInvasions = async () => {
           catchable: false, // FIXME: not implemented yet.
           shinyAvailable,
           imageUrl,
+          imageIco,
         });
       });
 
