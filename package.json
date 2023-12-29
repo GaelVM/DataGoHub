@@ -15,11 +15,11 @@
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
     "node-fetch": "^2.6.1",
-    "node-html-parser": "^2.2.1",
+    "node-html-parser": "^6.1.12",
     "pmgo-pokedex": "^0.2.2",
-    "puppeteer": "^15.5.0",
-    "sprintf-js": "^1.1.2",
-    "url-join": "^4.0.1"
+    "puppeteer": "^21.6.1",
+    "sprintf-js": "^1.1.3",
+    "url-join": "^5.0.0"
   },
   "devDependencies": {
     "@types/fs-extra": "^9.0.5",
