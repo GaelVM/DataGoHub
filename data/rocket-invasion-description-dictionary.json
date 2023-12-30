@@ -74,5 +74,9 @@
     {
         "pattern": "Don’t bother – I’ve already won. Get ready to be defeated! Winning is for winners!",
         "displayText": "No te molestes, ya he ganado.;\n¡Prepárate para ser derrotado!\n¡Ganar es para los ganadores!"
+    },
+    {
+        "pattern": "Recommended team for defeating Team GO Rocket Grunts",
+        "displayText": "Equipo recomendado para derrotar al Team GO Rocket Grunts"
     }
 ]
