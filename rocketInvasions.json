@@ -3,7 +3,7 @@
     "quote": "Normal no significa débil",
     "orignialQuote": "Normal doesn’t mean weak. – Normal-type Grunt",
     "category": "Normal",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -21,16 +21,29 @@
       },
       {
         "slotNo": 1,
-        "no": 431,
-        "name": "Glameow",
-        "originalName": "Glameow (Shadow)",
+        "no": 216,
+        "name": "Teddiursa",
+        "originalName": "Teddiursa (Shadow)",
         "types": [
           "Normal"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/431.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/431.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/216.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/216.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 234,
+        "name": "Stantler",
+        "originalName": "Stantler (Shadow)",
+        "types": [
+          "Normal"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/234.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/234.png"
       },
       {
         "slotNo": 2,
@@ -47,16 +60,16 @@
       },
       {
         "slotNo": 2,
-        "no": 20,
-        "name": "Raticate",
-        "originalName": "Raticate (Shadow)",
+        "no": 52,
+        "name": "Meowth",
+        "originalName": "Meowth (Shadow)",
         "types": [
           "Normal"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/020.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/20.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/052.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/52.png"
       },
       {
         "slotNo": 2,
@@ -100,16 +113,16 @@
       },
       {
         "slotNo": 3,
-        "no": 20,
-        "name": "Raticate",
-        "originalName": "Raticate (Shadow)",
+        "no": 234,
+        "name": "Stantler",
+        "originalName": "Stantler (Shadow)",
         "types": [
           "Normal"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/020.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/20.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/234.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/234.png"
       }
     ]
   },
@@ -122,84 +135,85 @@
     "lineupPokemons": [
       {
         "slotNo": 1,
-        "no": 607,
-        "name": "Litwick",
-        "originalName": "Litwick (Shadow)",
-        "types": [
-          "Ghost",
-          "Fire"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/607.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/607.png"
-      },
-      {
-        "slotNo": 1,
-        "no": 37,
-        "name": "Vulpix",
-        "originalName": "Vulpix (Shadow)",
+        "no": 58,
+        "name": "Growlithe",
+        "originalName": "Growlithe (Shadow)",
         "types": [
           "Fire"
         ],
         "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/037.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/37.png"
+        "shinyAvailable": true,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/058.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/58.png"
       },
       {
         "slotNo": 1,
-        "no": 322,
-        "name": "Numel",
-        "originalName": "Numel (Shadow)",
+        "no": 228,
+        "name": "Houndour",
+        "originalName": "Houndour (Shadow)",
+        "types": [
+          "Dark",
+          "Fire"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/228.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/228.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 390,
+        "name": "Chimchar",
+        "originalName": "Chimchar (Shadow)",
+        "types": [
+          "Fire"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/390.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/390.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 229,
+        "name": "Houndoom",
+        "originalName": "Houndoom (Shadow)",
+        "types": [
+          "Dark",
+          "Fire"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/229.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/229.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 391,
+        "name": "Monferno",
+        "originalName": "Monferno (Shadow)",
         "types": [
           "Fire",
-          "Ground"
+          "Fighting"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/322.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/322.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 156,
-        "name": "Quilava",
-        "originalName": "Quilava (Shadow)",
-        "types": [
-          "Fire"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/156.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/156.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 802,
-        "name": "Marshadow",
-        "originalName": "Magmar (Shadow)",
-        "types": [
-          "Fighting",
-          "Ghost"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/126.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/802.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/391.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/391.png"
       },
       {
         "slotNo": 3,
-        "no": 157,
-        "name": "Typhlosion",
-        "originalName": "Typhlosion (Shadow)",
+        "no": 229,
+        "name": "Houndoom",
+        "originalName": "Houndoom (Shadow)",
         "types": [
+          "Dark",
           "Fire"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/157.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/157.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/229.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/229.png"
       },
       {
         "slotNo": 3,
@@ -216,17 +230,17 @@
       },
       {
         "slotNo": 3,
-        "no": 323,
-        "name": "Camerupt",
-        "originalName": "Camerupt (Shadow)",
+        "no": 392,
+        "name": "Infernape",
+        "originalName": "Infernape (Shadow)",
         "types": [
           "Fire",
-          "Ground"
+          "Fighting"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/323.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/323.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/392.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/392.png"
       }
     ]
   },
@@ -234,34 +248,34 @@
     "quote": "Estas aguas son traicioneras.",
     "orignialQuote": "These waters are treacherous – Water-type Grunt",
     "category": "Water",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
-        "no": 90,
-        "name": "Shellder",
-        "originalName": "Shellder (Shadow)",
+        "no": 393,
+        "name": "Piplup",
+        "originalName": "Piplup (Shadow)",
         "types": [
           "Water"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/090.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/90.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/393.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/393.png"
       },
       {
         "slotNo": 1,
-        "no": 54,
-        "name": "Psyduck",
-        "originalName": "Psyduck (Shadow)",
+        "no": 341,
+        "name": "Corphish",
+        "originalName": "Corphish (Shadow)",
         "types": [
           "Water"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/054.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/54.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/341.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/341.png"
       },
       {
         "slotNo": 1,
@@ -279,42 +293,44 @@
       },
       {
         "slotNo": 2,
-        "no": 159,
-        "name": "Croconaw",
-        "originalName": "Croconaw (Shadow)",
+        "no": 342,
+        "name": "Crawdaunt",
+        "originalName": "Crawdaunt (Shadow)",
         "types": [
-          "Water"
+          "Water",
+          "Dark"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/159.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/159.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/342.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/342.png"
       },
       {
         "slotNo": 2,
-        "no": 55,
-        "name": "Golduck",
-        "originalName": "Golduck (Shadow)",
+        "no": 394,
+        "name": "Prinplup",
+        "originalName": "Prinplup (Shadow)",
         "types": [
           "Water"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/055.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/55.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/394.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/394.png"
       },
       {
         "slotNo": 3,
-        "no": 160,
-        "name": "Feraligatr",
-        "originalName": "Feraligatr (Shadow)",
+        "no": 340,
+        "name": "Whiscash",
+        "originalName": "Whiscash (Shadow)",
         "types": [
-          "Water"
+          "Water",
+          "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/160.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/160.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/340.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/340.png"
       },
       {
         "slotNo": 3,
@@ -331,16 +347,17 @@
       },
       {
         "slotNo": 3,
-        "no": 55,
-        "name": "Golduck",
-        "originalName": "Golduck (Shadow)",
+        "no": 395,
+        "name": "Empoleon",
+        "originalName": "Empoleon (Shadow)",
         "types": [
-          "Water"
+          "Water",
+          "Steel"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/055.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/55.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/395.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/395.png"
       },
       {
         "slotNo": 4,
@@ -401,76 +418,75 @@
     "quote": "¡No te metas con nosotros!",
     "orignialQuote": "Don’t tangle with us! – Grass-type Grunt",
     "category": "Grass",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
-        "no": 331,
-        "name": "Cacnea",
-        "originalName": "Cacnea (Shadow)",
+        "no": 187,
+        "name": "Hoppip",
+        "originalName": "Hoppip (Shadow)",
         "types": [
-          "Grass"
+          "Grass",
+          "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/331.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/331.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/187.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/187.png"
       },
       {
         "slotNo": 1,
-        "no": 69,
-        "name": "Bellsprout",
-        "originalName": "Bellsprout (Shadow)",
+        "no": 273,
+        "name": "Seedot",
+        "originalName": "Seedot (Shadow)",
         "types": [
-          "Grass",
-          "Poison"
+          "Grass"
         ],
         "catchable": false,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/069.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/69.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/273.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/273.png"
       },
       {
         "slotNo": 1,
-        "no": 43,
-        "name": "Oddish",
-        "originalName": "Oddish (Shadow)",
-        "types": [
-          "Grass",
-          "Poison"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/043.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/43.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 153,
-        "name": "Bayleef",
-        "originalName": "Bayleef (Shadow)",
+        "no": 387,
+        "name": "Turtwig",
+        "originalName": "Turtwig (Shadow)",
         "types": [
           "Grass"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/153.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/153.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/387.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/387.png"
       },
       {
         "slotNo": 2,
-        "no": 44,
-        "name": "Gloom",
-        "originalName": "Gloom (Shadow)",
+        "no": 388,
+        "name": "Grotle",
+        "originalName": "Grotle (Shadow)",
         "types": [
-          "Grass",
-          "Poison"
+          "Grass"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/044.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/44.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/388.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/388.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 598,
+        "name": "Ferrothorn",
+        "originalName": "Ferrothorn (Shadow)",
+        "types": [
+          "Grass",
+          "Steel"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/598.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/598.png"
       },
       {
         "slotNo": 3,
@@ -488,19 +504,6 @@
       },
       {
         "slotNo": 3,
-        "no": 154,
-        "name": "Meganium",
-        "originalName": "Meganium (Shadow)",
-        "types": [
-          "Grass"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/154.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/154.png"
-      },
-      {
-        "slotNo": 3,
         "no": 591,
         "name": "Amoonguss",
         "originalName": "Amoonguss (Shadow)",
@@ -512,6 +515,20 @@
         "shinyAvailable": false,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/591.png",
         "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/591.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 389,
+        "name": "Torterra",
+        "originalName": "Torterra (Shadow)",
+        "types": [
+          "Grass",
+          "Ground"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/389.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/389.png"
       }
     ]
   },
@@ -519,7 +536,7 @@
     "quote": "¡Prepárate para sorprenderte!",
     "orignialQuote": "Get ready to be shocked! – Electric-type Grunt",
     "category": "Electric",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -538,17 +555,30 @@
       },
       {
         "slotNo": 1,
-        "no": 81,
-        "name": "Magnemite",
-        "originalName": "Magnemite (Shadow)",
+        "no": 522,
+        "name": "Blitzle",
+        "originalName": "Blitzle (Shadow)",
         "types": [
-          "Electric",
-          "Steel"
+          "Electric"
         ],
         "catchable": false,
-        "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/081.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/81.png"
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/522.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/522.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 595,
+        "name": "Joltik",
+        "originalName": "Joltik (Shadow)",
+        "types": [
+          "Bug",
+          "Electric"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/595.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/595.png"
       },
       {
         "slotNo": 2,
@@ -579,16 +609,17 @@
       },
       {
         "slotNo": 3,
-        "no": 523,
-        "name": "Zebstrika",
-        "originalName": "Zebstrika (Shadow)",
+        "no": 596,
+        "name": "Galvantula",
+        "originalName": "Galvantula (Shadow)",
         "types": [
+          "Bug",
           "Electric"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/523.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/523.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/596.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/596.png"
       },
       {
         "slotNo": 3,
@@ -622,7 +653,7 @@
     "quote": "¡Este físico musculoso no es sólo para lucirse!",
     "orignialQuote": "This buff physique isn’t just for show! – Fighting-type Grunt",
     "category": "Fighting",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -641,29 +672,29 @@
       },
       {
         "slotNo": 1,
-        "no": 106,
-        "name": "Hitmonlee",
-        "originalName": "Hitmonlee (Shadow)",
+        "no": 296,
+        "name": "Makuhita",
+        "originalName": "Makuhita (Shadow)",
         "types": [
           "Fighting"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/106.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/106.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/296.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/296.png"
       },
       {
         "slotNo": 1,
-        "no": 107,
-        "name": "Hitmonchan",
-        "originalName": "Hitmonchan (Shadow)",
+        "no": 66,
+        "name": "Machop",
+        "originalName": "Machop (Shadow)",
         "types": [
           "Fighting"
         ],
         "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/107.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/107.png"
+        "shinyAvailable": true,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/066.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/66.png"
       },
       {
         "slotNo": 2,
@@ -706,16 +737,44 @@
       },
       {
         "slotNo": 3,
-        "no": 237,
-        "name": "Hitmontop",
-        "originalName": "Hitmontop (Shadow)",
+        "no": 68,
+        "name": "Machamp",
+        "originalName": "Machamp (Shadow)",
         "types": [
           "Fighting"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/237.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/237.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/068.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/68.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 454,
+        "name": "Toxicroak",
+        "originalName": "Toxicroak (Shadow)",
+        "types": [
+          "Poison",
+          "Fighting"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/454.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/454.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 392,
+        "name": "Infernape",
+        "originalName": "Infernape (Shadow)",
+        "types": [
+          "Fire",
+          "Fighting"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/392.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/392.png"
       }
     ]
   },
@@ -728,16 +787,16 @@
     "lineupPokemons": [
       {
         "slotNo": 1,
-        "no": 88,
-        "name": "Grimer",
-        "originalName": "Grimer (Shadow)",
+        "no": 109,
+        "name": "Koffing",
+        "originalName": "Koffing (Shadow)",
         "types": [
           "Poison"
         ],
         "catchable": false,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/088.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/88.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/109.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/109.png"
       },
       {
         "slotNo": 1,
@@ -752,6 +811,20 @@
         "shinyAvailable": false,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/590.png",
         "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/590.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 453,
+        "name": "Croagunk",
+        "originalName": "Croagunk (Shadow)",
+        "types": [
+          "Poison",
+          "Fighting"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/453.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/453.png"
       },
       {
         "slotNo": 2,
@@ -781,17 +854,17 @@
       },
       {
         "slotNo": 3,
-        "no": 802,
-        "name": "Marshadow",
-        "originalName": "Muk (Shadow)",
+        "no": 454,
+        "name": "Toxicroak",
+        "originalName": "Toxicroak (Shadow)",
         "types": [
-          "Psychic",
-          "Ghost"
+          "Poison",
+          "Fighting"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/089.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/802.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/454.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/454.png"
       },
       {
         "slotNo": 3,
@@ -805,6 +878,20 @@
         "shinyAvailable": false,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/110.png",
         "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/110.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 591,
+        "name": "Amoonguss",
+        "originalName": "Amoonguss (Shadow)",
+        "types": [
+          "Grass",
+          "Poison"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/591.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/591.png"
       }
     ]
   },
@@ -812,22 +899,36 @@
     "quote": "¡Serás derrotado hasta el suelo!",
     "orignialQuote": "You’ll be defeated into the ground! – Ground-type Grunt",
     "category": "Ground",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
-        "no": 111,
-        "name": "Rhyhorn",
-        "originalName": "Rhyhorn (Shadow)",
+        "no": 50,
+        "name": "Diglett",
+        "originalName": "Diglett (Alola Shadow)",
         "types": [
           "Ground",
-          "Rock"
+          "Steel"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/111.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/111.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/050_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/50.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 194,
+        "name": "Wooper",
+        "originalName": "Wooper (Shadow)",
+        "types": [
+          "Water",
+          "Ground"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/194.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/194.png"
       },
       {
         "slotNo": 1,
@@ -844,19 +945,6 @@
       },
       {
         "slotNo": 2,
-        "no": 449,
-        "name": "Hippopotas",
-        "originalName": "Hippopotas (Shadow)",
-        "types": [
-          "Ground"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/449.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/449.png"
-      },
-      {
-        "slotNo": 2,
         "no": 111,
         "name": "Rhyhorn",
         "originalName": "Rhyhorn (Shadow)",
@@ -871,16 +959,17 @@
       },
       {
         "slotNo": 3,
-        "no": 450,
-        "name": "Hippowdon",
-        "originalName": "Hippowdon (Shadow)",
+        "no": 340,
+        "name": "Whiscash",
+        "originalName": "Whiscash (Shadow)",
         "types": [
+          "Water",
           "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/450.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/450.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/340.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/340.png"
       },
       {
         "slotNo": 3,
@@ -895,6 +984,20 @@
         "shinyAvailable": false,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/195.png",
         "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/195.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 389,
+        "name": "Torterra",
+        "originalName": "Torterra (Shadow)",
+        "types": [
+          "Grass",
+          "Ground"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/389.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/389.png"
       }
     ]
   },
@@ -907,45 +1010,45 @@
     "lineupPokemons": [
       {
         "slotNo": 1,
-        "no": 177,
-        "name": "Natu",
-        "originalName": "Natu (Shadow)",
+        "no": 207,
+        "name": "Gligar",
+        "originalName": "Gligar (Shadow)",
         "types": [
-          "Psychic",
-          "Ghost"
+          "Ground",
+          "Flying"
         ],
         "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/177.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/177.png"
+        "shinyAvailable": true,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/207.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/207.png"
       },
       {
         "slotNo": 1,
-        "no": 580,
-        "name": "Ducklett",
-        "originalName": "Ducklett (Shadow)",
+        "no": 198,
+        "name": "Murkrow",
+        "originalName": "Murkrow (Shadow)",
         "types": [
-          "Water",
+          "Dark",
+          "Flying"
+        ],
+        "catchable": false,
+        "shinyAvailable": true,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/198.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/198.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 396,
+        "name": "Starly",
+        "originalName": "Starly (Shadow)",
+        "types": [
+          "Normal",
           "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/580.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/580.png"
-      },
-      {
-        "slotNo": 1,
-        "no": 41,
-        "name": "Zubat",
-        "originalName": "Zubat (Shadow)",
-        "types": [
-          "Poison",
-          "Flying"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/041.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/41.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/396.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/396.png"
       },
       {
         "slotNo": 2,
@@ -977,31 +1080,31 @@
       },
       {
         "slotNo": 2,
-        "no": 42,
-        "name": "Golbat",
-        "originalName": "Golbat (Shadow)",
+        "no": 207,
+        "name": "Gligar",
+        "originalName": "Gligar (Shadow)",
         "types": [
-          "Poison",
+          "Ground",
           "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/042.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/42.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/207.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/207.png"
       },
       {
         "slotNo": 3,
-        "no": 130,
-        "name": "Gyarados",
-        "originalName": "Gyarados (Shadow)",
+        "no": 398,
+        "name": "Staraptor",
+        "originalName": "Staraptor (Shadow)",
         "types": [
-          "Water",
+          "Normal",
           "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/130.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/130.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/398.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/398.png"
       },
       {
         "slotNo": 3,
@@ -1019,17 +1122,17 @@
       },
       {
         "slotNo": 3,
-        "no": 169,
-        "name": "Crobat",
-        "originalName": "Crobat (Shadow)",
+        "no": 227,
+        "name": "Skarmory",
+        "originalName": "Skarmory (Shadow)",
         "types": [
-          "Poison",
+          "Steel",
           "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/169.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/169.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/227.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/227.png"
       }
     ]
   },
@@ -1037,63 +1140,48 @@
     "quote": "¿Tienes miedo de los psíquicos que usan poderes invisibles?？",
     "orignialQuote": "Are you scared of psychics that use unseen power? – Psychic-type Grunt",
     "category": "Psychic",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
-        "no": 177,
-        "name": "Natu",
-        "originalName": "Natu (Shadow)",
+        "no": 79,
+        "name": "Slowpoke",
+        "originalName": "Slowpoke (Shadow)",
         "types": [
-          "Psychic",
-          "Ghost"
+          "Water",
+          "Psychic"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/177.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/177.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/079.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/79.png"
       },
       {
         "slotNo": 1,
-        "no": 325,
-        "name": "Spoink",
-        "originalName": "Spoink (Shadow)",
+        "no": 202,
+        "name": "Wobbuffet",
+        "originalName": "Wobbuffet (Shadow)",
         "types": [
           "Psychic"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/325.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/325.png"
-      },
-      {
-        "slotNo": 1,
-        "no": 63,
-        "name": "Abra",
-        "originalName": "Abra (Shadow)",
-        "types": [
-          "Psychic",
-          "Ghost"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/063.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/63.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/202.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/202.png"
       },
       {
         "slotNo": 2,
-        "no": 280,
-        "name": "Ralts",
-        "originalName": "Ralts (Shadow)",
+        "no": 202,
+        "name": "Wobbuffet",
+        "originalName": "Wobbuffet (Shadow)",
         "types": [
-          "Psychic",
-          "Ghost"
+          "Psychic"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/280.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/280.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/202.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/202.png"
       },
       {
         "slotNo": 2,
@@ -1110,31 +1198,46 @@
         "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/203.png"
       },
       {
-        "slotNo": 3,
-        "no": 97,
-        "name": "Hypno",
-        "originalName": "Hypno (Shadow)",
+        "slotNo": 2,
+        "no": 280,
+        "name": "Ralts",
+        "originalName": "Ralts (Shadow)",
         "types": [
-          "Psychic"
+          "Psychic",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/097.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/97.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/280.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/280.png"
       },
       {
         "slotNo": 3,
-        "no": 375,
-        "name": "Metang",
-        "originalName": "Metang (Shadow)",
+        "no": 475,
+        "name": "Gallade",
+        "originalName": "Gallade (Shadow)",
+        "types": [
+          "Psychic",
+          "Fighting"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/475.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/475.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 376,
+        "name": "Metagross",
+        "originalName": "Metagross (Shadow)",
         "types": [
           "Steel",
           "Psychic"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/375.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/375.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/376.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/376.png"
       },
       {
         "slotNo": 3,
@@ -1160,20 +1263,6 @@
     "lineupPokemons": [
       {
         "slotNo": 1,
-        "no": 165,
-        "name": "Ledyba",
-        "originalName": "Ledyba (Shadow)",
-        "types": [
-          "Bug",
-          "Flying"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/165.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/165.png"
-      },
-      {
-        "slotNo": 1,
         "no": 204,
         "name": "Pineco",
         "originalName": "Pineco (Shadow)",
@@ -1187,17 +1276,31 @@
       },
       {
         "slotNo": 1,
-        "no": 595,
-        "name": "Joltik",
-        "originalName": "Joltik (Shadow)",
+        "no": 213,
+        "name": "Shuckle",
+        "originalName": "Shuckle (Shadow)",
         "types": [
           "Bug",
-          "Electric"
+          "Rock"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/595.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/595.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/213.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/213.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 557,
+        "name": "Dwebble",
+        "originalName": "Dwebble (Shadow)",
+        "types": [
+          "Bug",
+          "Rock"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/557.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/557.png"
       },
       {
         "slotNo": 2,
@@ -1215,31 +1318,31 @@
       },
       {
         "slotNo": 2,
-        "no": 14,
-        "name": "Kakuna",
-        "originalName": "Kakuna (Shadow)",
+        "no": 451,
+        "name": "Skorupi",
+        "originalName": "Skorupi (Shadow)",
         "types": [
-          "Bug",
-          "Poison"
+          "Poison",
+          "Bug"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/014.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/14.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/451.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/451.png"
       },
       {
         "slotNo": 2,
-        "no": 15,
-        "name": "Beedrill",
-        "originalName": "Beedrill (Shadow)",
+        "no": 213,
+        "name": "Shuckle",
+        "originalName": "Shuckle (Shadow)",
         "types": [
           "Bug",
-          "Poison"
+          "Rock"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/015.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/15.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/213.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/213.png"
       },
       {
         "slotNo": 3,
@@ -1321,17 +1424,17 @@
       },
       {
         "slotNo": 1,
-        "no": 74,
-        "name": "Geodude",
-        "originalName": "Geodude (Alola Shadow)",
+        "no": 95,
+        "name": "Onix",
+        "originalName": "Onix (Shadow)",
         "types": [
-          "Rock",
-          "Electric"
+          "Psychic",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/074_f2.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/74.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/095.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/95.png"
       },
       {
         "slotNo": 2,
@@ -1391,17 +1494,30 @@
       },
       {
         "slotNo": 3,
-        "no": 76,
-        "name": "Golem",
-        "originalName": "Golem (Alola Shadow)",
+        "no": 409,
+        "name": "Rampardos",
+        "originalName": "Rampardos (Shadow)",
         "types": [
-          "Rock",
-          "Electric"
+          "Rock"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/076_f2.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/76.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/409.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/409.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 411,
+        "name": "Bastiodon",
+        "originalName": "Bastiodon (Shadow)",
+        "types": [
+          "Rock",
+          "Steel"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/411.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/411.png"
       }
     ]
   },
@@ -1414,43 +1530,44 @@
     "lineupPokemons": [
       {
         "slotNo": 1,
-        "no": 92,
-        "name": "Gastly",
-        "originalName": "Gastly (Shadow)",
+        "no": 200,
+        "name": "Misdreavus",
+        "originalName": "Misdreavus (Shadow)",
+        "types": [
+          "Ghost"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/200.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/200.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 425,
+        "name": "Drifloon",
+        "originalName": "Drifloon (Shadow)",
         "types": [
           "Ghost",
-          "Poison"
+          "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/092.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/92.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/425.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/425.png"
       },
       {
         "slotNo": 1,
-        "no": 355,
-        "name": "Duskull",
-        "originalName": "Duskull (Shadow)",
+        "no": 622,
+        "name": "Golett",
+        "originalName": "Golett (Shadow)",
         "types": [
+          "Ground",
           "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/355.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/355.png"
-      },
-      {
-        "slotNo": 1,
-        "no": 353,
-        "name": "Shuppet",
-        "originalName": "Shuppet (Shadow)",
-        "types": [
-          "Ghost"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/353.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/353.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/622.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/622.png"
       },
       {
         "slotNo": 2,
@@ -1494,16 +1611,17 @@
       },
       {
         "slotNo": 3,
-        "no": 477,
-        "name": "Dusknoir",
-        "originalName": "Dusknoir (Shadow)",
+        "no": 478,
+        "name": "Froslass",
+        "originalName": "Froslass (Shadow)",
         "types": [
+          "Ice",
           "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/477.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/477.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/478.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/478.png"
       },
       {
         "slotNo": 3,
@@ -1544,30 +1662,30 @@
     "lineupPokemons": [
       {
         "slotNo": 1,
-        "no": 27,
-        "name": "Sandshrew",
-        "originalName": "Sandshrew (Alola Shadow)",
-        "types": [
-          "Ice",
-          "Steel"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/027_f2.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/27.png"
-      },
-      {
-        "slotNo": 1,
-        "no": 37,
-        "name": "Vulpix",
-        "originalName": "Vulpix (Alola Shadow)",
+        "no": 361,
+        "name": "Snorunt",
+        "originalName": "Snorunt (Shadow)",
         "types": [
           "Ice"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/037_f2.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/37.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/361.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/361.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 459,
+        "name": "Snover",
+        "originalName": "Snover (Shadow)",
+        "types": [
+          "Grass",
+          "Ice"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/459.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/459.png"
       },
       {
         "slotNo": 1,
@@ -1585,17 +1703,17 @@
       },
       {
         "slotNo": 2,
-        "no": 28,
-        "name": "Sandslash",
-        "originalName": "Sandslash (Alola Shadow)",
+        "no": 478,
+        "name": "Froslass",
+        "originalName": "Froslass (Shadow)",
         "types": [
           "Ice",
-          "Steel"
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/028_f2.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/28.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/478.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/478.png"
       },
       {
         "slotNo": 2,
@@ -1613,45 +1731,43 @@
       },
       {
         "slotNo": 2,
-        "no": 459,
-        "name": "Snover",
-        "originalName": "Snover (Shadow)",
+        "no": 362,
+        "name": "Glalie",
+        "originalName": "Glalie (Shadow)",
         "types": [
-          "Grass",
           "Ice"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/459.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/459.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/362.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/362.png"
       },
       {
         "slotNo": 3,
-        "no": 131,
-        "name": "Lapras",
-        "originalName": "Lapras (Shadow)",
+        "no": 362,
+        "name": "Glalie",
+        "originalName": "Glalie (Shadow)",
         "types": [
-          "Water",
           "Ice"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/131.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/131.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/362.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/362.png"
       },
       {
         "slotNo": 3,
-        "no": 91,
-        "name": "Cloyster",
-        "originalName": "Cloyster (Shadow)",
+        "no": 478,
+        "name": "Froslass",
+        "originalName": "Froslass (Shadow)",
         "types": [
-          "Water",
-          "Ice"
+          "Ice",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/091.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/91.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/478.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/478.png"
       },
       {
         "slotNo": 3,
@@ -1673,7 +1789,7 @@
     "quote": "¡RUGIDO! … ¿Qué te parece?",
     "orignialQuote": "ROAR! … How’d that sound? – Dragon-type Grunt",
     "category": "Dragon",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1705,6 +1821,19 @@
         "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/443.png"
       },
       {
+        "slotNo": 1,
+        "no": 147,
+        "name": "Dratini",
+        "originalName": "Dratini (Shadow)",
+        "types": [
+          "Dragon"
+        ],
+        "catchable": false,
+        "shinyAvailable": true,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/147.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/147.png"
+      },
+      {
         "slotNo": 2,
         "no": 148,
         "name": "Dragonair",
@@ -1716,6 +1845,20 @@
         "shinyAvailable": false,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/148.png",
         "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/148.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 444,
+        "name": "Gabite",
+        "originalName": "Gabite (Shadow)",
+        "types": [
+          "Dragon",
+          "Ground"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/444.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/444.png"
       },
       {
         "slotNo": 2,
@@ -1733,16 +1876,17 @@
       },
       {
         "slotNo": 3,
-        "no": 148,
-        "name": "Dragonair",
-        "originalName": "Dragonair (Shadow)",
+        "no": 373,
+        "name": "Salamence",
+        "originalName": "Salamence (Shadow)",
         "types": [
-          "Dragon"
+          "Dragon",
+          "Flying"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/148.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/148.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/373.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/373.png"
       },
       {
         "slotNo": 3,
@@ -1760,17 +1904,17 @@
       },
       {
         "slotNo": 3,
-        "no": 444,
-        "name": "Gabite",
-        "originalName": "Gabite (Shadow)",
+        "no": 445,
+        "name": "Garchomp",
+        "originalName": "Garchomp (Shadow)",
         "types": [
           "Dragon",
           "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/444.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/444.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/445.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/445.png"
       }
     ]
   },
@@ -1783,17 +1927,31 @@
     "lineupPokemons": [
       {
         "slotNo": 1,
-        "no": 88,
-        "name": "Grimer",
-        "originalName": "Grimer (Alola Shadow)",
+        "no": 228,
+        "name": "Houndour",
+        "originalName": "Houndour (Shadow)",
+        "types": [
+          "Dark",
+          "Fire"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/228.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/228.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 434,
+        "name": "Stunky",
+        "originalName": "Stunky (Shadow)",
         "types": [
           "Poison",
           "Dark"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/088_f2.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/88.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/434.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/434.png"
       },
       {
         "slotNo": 1,
@@ -1850,6 +2008,20 @@
         "shinyAvailable": false,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/089_f2.png",
         "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/594.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 435,
+        "name": "Skuntank",
+        "originalName": "Skuntank (Shadow)",
+        "types": [
+          "Poison",
+          "Dark"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/435.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/435.png"
       }
     ]
   },
@@ -1857,36 +2029,36 @@
     "quote": "¡No eres rival para mi voluntad de hierro!",
     "orignialQuote": "You’re no match for my iron will! – Steel-type Grunt",
     "category": "Steel",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
-        "no": 304,
-        "name": "Aron",
-        "originalName": "Aron (Shadow)",
+        "no": 597,
+        "name": "Ferroseed",
+        "originalName": "Ferroseed (Shadow)",
         "types": [
-          "Psychic",
-          "Ghost"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/304.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/304.png"
-      },
-      {
-        "slotNo": 1,
-        "no": 50,
-        "name": "Diglett",
-        "originalName": "Diglett (Alola Shadow)",
-        "types": [
-          "Ground",
+          "Grass",
           "Steel"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/050_f2.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/50.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/597.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/597.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 227,
+        "name": "Skarmory",
+        "originalName": "Skarmory (Shadow)",
+        "types": [
+          "Steel",
+          "Flying"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/227.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/227.png"
       },
       {
         "slotNo": 1,
@@ -1932,31 +2104,31 @@
       },
       {
         "slotNo": 2,
-        "no": 27,
-        "name": "Sandshrew",
-        "originalName": "Sandshrew (Alola Shadow)",
+        "no": 227,
+        "name": "Skarmory",
+        "originalName": "Skarmory (Shadow)",
+        "types": [
+          "Steel",
+          "Flying"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/227.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/227.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 28,
+        "name": "Sandslash",
+        "originalName": "Sandslash (Alola Shadow)",
         "types": [
           "Ice",
           "Steel"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/027_f2.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/27.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 306,
-        "name": "Aggron",
-        "originalName": "Aggron (Shadow)",
-        "types": [
-          "Steel",
-          "Rock"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/306.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/306.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/028_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/28.png"
       },
       {
         "slotNo": 3,
@@ -1971,6 +2143,20 @@
         "shinyAvailable": false,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/212.png",
         "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/212.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 395,
+        "name": "Empoleon",
+        "originalName": "Empoleon (Shadow)",
+        "types": [
+          "Water",
+          "Steel"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/395.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/395.png"
       }
     ]
   },
@@ -2011,16 +2197,16 @@
       },
       {
         "slotNo": 1,
-        "no": 209,
-        "name": "Snubbull",
-        "originalName": "Snubbull (Shadow)",
+        "no": 37,
+        "name": "Vulpix",
+        "originalName": "Vulpix (Alola Shadow)",
         "types": [
-          "Fairy"
+          "Ice"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/209.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/209.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/037_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/37.png"
       },
       {
         "slotNo": 2,
@@ -2064,17 +2250,31 @@
       },
       {
         "slotNo": 3,
-        "no": 281,
-        "name": "Kirlia",
-        "originalName": "Kirlia (Shadow)",
+        "no": 38,
+        "name": "Ninetales",
+        "originalName": "Ninetales (Alola Shadow)",
+        "types": [
+          "Ice",
+          "Fairy"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/038_f2.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/38.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 282,
+        "name": "Gardevoir",
+        "originalName": "Gardevoir (Shadow)",
         "types": [
           "Psychic",
           "Fairy"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/281.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/281.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/282.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/282.png"
       },
       {
         "slotNo": 3,
@@ -2095,7 +2295,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": []
   },
@@ -2203,82 +2403,96 @@
       },
       {
         "slotNo": 4,
-        "no": 4,
-        "name": "Charmander",
-        "originalName": "Charmander (Shadow)",
-        "types": [
-          "Fire"
-        ],
-        "catchable": false,
-        "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/004.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/4.png"
-      },
-      {
-        "slotNo": 4,
-        "no": 7,
-        "name": "Squirtle",
-        "originalName": "Squirtle (Shadow)",
-        "types": [
-          "Water"
-        ],
-        "catchable": false,
-        "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/007.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/7.png"
-      },
-      {
-        "slotNo": 4,
-        "no": 1,
-        "name": "Bulbasaur",
-        "originalName": "Bulbasaur (Shadow)",
-        "types": [
-          "Grass",
-          "Poison"
-        ],
-        "catchable": false,
-        "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/001.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/1.png"
-      },
-      {
-        "slotNo": 5,
-        "no": 156,
-        "name": "Quilava",
-        "originalName": "Quilava (Shadow)",
-        "types": [
-          "Fire"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/156.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/156.png"
-      },
-      {
-        "slotNo": 5,
-        "no": 159,
-        "name": "Croconaw",
-        "originalName": "Croconaw (Shadow)",
-        "types": [
-          "Water"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/159.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/159.png"
-      },
-      {
-        "slotNo": 5,
-        "no": 153,
-        "name": "Bayleef",
-        "originalName": "Bayleef (Shadow)",
+        "no": 252,
+        "name": "Treecko",
+        "originalName": "Treecko (Shadow)",
         "types": [
           "Grass"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/153.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/153.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/252.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/252.png"
+      },
+      {
+        "slotNo": 4,
+        "no": 255,
+        "name": "Torchic",
+        "originalName": "Torchic (Shadow)",
+        "types": [
+          "Fire"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/255.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/255.png"
+      },
+      {
+        "slotNo": 4,
+        "no": 258,
+        "name": "Mudkip",
+        "originalName": "Mudkip (Shadow)",
+        "types": [
+          "Water"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/258.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/258.png"
+      },
+      {
+        "slotNo": 5,
+        "no": 253,
+        "name": "Grovyle",
+        "originalName": "Grovyle (Shadow)",
+        "types": [
+          "Grass"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/253.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/253.png"
+      },
+      {
+        "slotNo": 5,
+        "no": 256,
+        "name": "Combusken",
+        "originalName": "Combusken (Shadow)",
+        "types": [
+          "Fire",
+          "Fighting"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/256.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/256.png"
+      },
+      {
+        "slotNo": 5,
+        "no": 259,
+        "name": "Marshtomp",
+        "originalName": "Marshtomp (Shadow)",
+        "types": [
+          "Water",
+          "Ground"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/259.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/259.png"
+      },
+      {
+        "slotNo": 6,
+        "no": 254,
+        "name": "Sceptile",
+        "originalName": "Sceptile (Shadow)",
+        "types": [
+          "Grass"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/254.png",
+        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/254.png"
       },
       {
         "slotNo": 6,
@@ -2307,19 +2521,6 @@
         "shinyAvailable": false,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/260.png",
         "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/260.png"
-      },
-      {
-        "slotNo": 6,
-        "no": 254,
-        "name": "Sceptile",
-        "originalName": "Sceptile (Shadow)",
-        "types": [
-          "Grass"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/254.png",
-        "imageIco": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/254.png"
       }
     ]
   },
@@ -2327,7 +2528,7 @@
     "quote": "About Grunts",
     "orignialQuote": "About Grunts",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": []
   },
@@ -2335,7 +2536,7 @@
     "quote": "Equipo recomendado por PokeTrux con mayor eficiencia al derrotar una gran mayoria de invasores",
     "orignialQuote": "Recommended team for defeating Team GO Rocket Grunts",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
