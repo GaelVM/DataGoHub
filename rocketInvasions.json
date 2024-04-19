@@ -235,7 +235,7 @@
     "quote": "Estas aguas son traicioneras.",
     "orignialQuote": "These waters are treacherous – Water-type Grunt",
     "category": "Water",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1072,7 +1072,7 @@
     "quote": "¿Tienes miedo de los psíquicos que usan poderes invisibles?？",
     "orignialQuote": "Are you scared of psychics that use unseen power? – Psychic-type Grunt",
     "category": "Psychic",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1188,7 +1188,7 @@
     "quote": "¡Vamos, mi Pokémon súper bicho!",
     "orignialQuote": "Go, my super bug Pokémon! – Bug-type Grunt",
     "category": "Bug",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1588,7 +1588,7 @@
     "quote": "Te quedarás congelado en seco.",
     "orignialQuote": "You’re gonna be frozen in your tracks. – Ice-type Grunt",
     "category": "Ice",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1706,7 +1706,7 @@
     "quote": "¡RUGIDO! … ¿Qué te parece?",
     "orignialQuote": "ROAR! … How’d that sound? – Dragon-type Grunt",
     "category": "Dragon",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2080,7 +2080,7 @@
     "quote": "¡Mira mi lindo Pokémon!",
     "orignialQuote": "Check out my cute Pokémon! – Fairy-type Grunt",
     "category": "Fairy",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2211,7 +2211,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": []
   },
@@ -2219,7 +2219,7 @@
     "quote": "No te molestes, ya he ganado.;\n¡Prepárate para ser derrotado!\n¡Ganar es para los ganadores!",
     "orignialQuote": "Don’t bother – I’ve already won. Get ready to be defeated! Winning is for winners! – Difficult Grunts",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
