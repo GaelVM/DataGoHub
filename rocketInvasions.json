@@ -3,7 +3,7 @@
     "quote": "Normal no significa débil",
     "orignialQuote": "Normal doesn’t mean weak. – Normal-type Grunt",
     "category": "Normal",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -391,7 +391,7 @@
     "quote": "¡No te metas con nosotros!",
     "orignialQuote": "Don’t tangle with us! – Grass-type Grunt",
     "category": "Grass",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -755,7 +755,7 @@
     "quote": "¡Enrollado y listo para atacar!",
     "orignialQuote": "Coiled and ready to strike! – Poison-type Grunt",
     "category": "Poison",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -859,7 +859,7 @@
     "quote": "¡Serás derrotado hasta el suelo!",
     "orignialQuote": "You’ll be defeated into the ground! – Ground-type Grunt",
     "category": "Ground",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1188,7 +1188,7 @@
     "quote": "¡Vamos, mi Pokémon súper bicho!",
     "orignialQuote": "Go, my super bug Pokémon! – Bug-type Grunt",
     "category": "Bug",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1323,7 +1323,7 @@
     "quote": "¡Vamos a rockanrolear!",
     "orignialQuote": "Let’s rock and roll! – Rock-type Grunt",
     "category": "Rock",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1588,7 +1588,7 @@
     "quote": "Te quedarás congelado en seco.",
     "orignialQuote": "You’re gonna be frozen in your tracks. – Ice-type Grunt",
     "category": "Ice",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1706,7 +1706,7 @@
     "quote": "¡RUGIDO! … ¿Qué te parece?",
     "orignialQuote": "ROAR! … How’d that sound? – Dragon-type Grunt",
     "category": "Dragon",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1838,7 +1838,7 @@
     "quote": "Donde hay luz, también hay sombra.",
     "orignialQuote": "Wherever there is light, there is also shadow. – Dark-type Grunt",
     "category": "Dark",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1945,7 +1945,7 @@
     "quote": "¡No eres rival para mi voluntad de hierro!",
     "orignialQuote": "You’re no match for my iron will! – Steel-type Grunt",
     "category": "Steel",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2452,7 +2452,7 @@
     "quote": "Equipo recomendado por PokeTrux con mayor eficiencia al derrotar una gran mayoria de invasores",
     "orignialQuote": "Recommended team for defeating Team GO Rocket Grunts",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
