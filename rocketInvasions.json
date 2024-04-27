@@ -3,7 +3,7 @@
     "quote": "Normal no significa débil",
     "orignialQuote": "Normal doesn’t mean weak. – Normal-type Grunt",
     "category": "Normal",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -130,7 +130,7 @@
     "quote": "¿Sabes lo caliente que puede llegar a ser el aliento de fuego de Pokémon?",
     "orignialQuote": "Do you know how hot Pokémon fire breath can get? – Fire-type Grunt",
     "category": "Fire",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -496,7 +496,7 @@
     "quote": "¡Prepárate para sorprenderte!",
     "orignialQuote": "Get ready to be shocked! – Electric-type Grunt",
     "category": "Electric",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -965,7 +965,7 @@
     "quote": "¡Lucha contra mis Pokémon de tipo Volador!",
     "orignialQuote": "Battle against my Flying-type Pokémon! – Flying-type Grunt",
     "category": "Flying",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1588,7 +1588,7 @@
     "quote": "Te quedarás congelado en seco.",
     "orignialQuote": "You’re gonna be frozen in your tracks. – Ice-type Grunt",
     "category": "Ice",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1945,7 +1945,7 @@
     "quote": "¡No eres rival para mi voluntad de hierro!",
     "orignialQuote": "You’re no match for my iron will! – Steel-type Grunt",
     "category": "Steel",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2080,7 +2080,7 @@
     "quote": "¡Mira mi lindo Pokémon!",
     "orignialQuote": "Check out my cute Pokémon! – Fairy-type Grunt",
     "category": "Fairy",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2219,7 +2219,7 @@
     "quote": "No te molestes, ya he ganado.;\n¡Prepárate para ser derrotado!\n¡Ganar es para los ganadores!",
     "orignialQuote": "Don’t bother – I’ve already won. Get ready to be defeated! Winning is for winners! – Difficult Grunts",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2444,7 +2444,7 @@
     "quote": "About Grunts",
     "orignialQuote": "About Grunts",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": []
   },
@@ -2452,7 +2452,7 @@
     "quote": "Equipo recomendado por PokeTrux con mayor eficiencia al derrotar una gran mayoria de invasores",
     "orignialQuote": "Recommended team for defeating Team GO Rocket Grunts",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
