@@ -130,7 +130,7 @@
     "quote": "¿Sabes lo caliente que puede llegar a ser el aliento de fuego de Pokémon?",
     "orignialQuote": "Do you know how hot Pokémon fire breath can get? – Fire-type Grunt",
     "category": "Fire",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -496,7 +496,7 @@
     "quote": "¡Prepárate para sorprenderte!",
     "orignialQuote": "Get ready to be shocked! – Electric-type Grunt",
     "category": "Electric",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -626,7 +626,7 @@
     "quote": "¡Este físico musculoso no es sólo para lucirse!",
     "orignialQuote": "This buff physique isn’t just for show! – Fighting-type Grunt",
     "category": "Fighting",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -965,7 +965,7 @@
     "quote": "¡Lucha contra mis Pokémon de tipo Volador!",
     "orignialQuote": "Battle against my Flying-type Pokémon! – Flying-type Grunt",
     "category": "Flying",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1188,7 +1188,7 @@
     "quote": "¡Vamos, mi Pokémon súper bicho!",
     "orignialQuote": "Go, my super bug Pokémon! – Bug-type Grunt",
     "category": "Bug",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1323,7 +1323,7 @@
     "quote": "¡Vamos a rockanrolear!",
     "orignialQuote": "Let’s rock and roll! – Rock-type Grunt",
     "category": "Rock",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1456,7 +1456,7 @@
     "quote": "Ke…ke…ke…ke…ke…ke！",
     "orignialQuote": "Ke…ke…ke…ke…ke…ke! – Ghost-type Grunt",
     "category": "Ghost",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1588,7 +1588,7 @@
     "quote": "Te quedarás congelado en seco.",
     "orignialQuote": "You’re gonna be frozen in your tracks. – Ice-type Grunt",
     "category": "Ice",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1945,7 +1945,7 @@
     "quote": "¡No eres rival para mi voluntad de hierro!",
     "orignialQuote": "You’re no match for my iron will! – Steel-type Grunt",
     "category": "Steel",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DataGoHub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
